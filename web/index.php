@@ -35,6 +35,29 @@ var customQuestion = -1;
 var correct = 0, total = 0;
 var jokes = null;
 
+function startTimer(duration, display) {
+    var timer = duration, minutes, seconds;
+    setInterval(function () {
+        minutes = parseInt(timer / 60, 10);
+        seconds = parseInt(timer % 60, 10);
+
+        minutes = minutes < 10 ? "0" + minutes : minutes;
+        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+        display.innerHTML = minutes + ":" + seconds + " until you've done your 15 minutes";
+
+        if (--timer < 0) {
+            timer = duration;
+	    alert("You've done 15 minutes. Good job. You can continue to study, or get off. Either way, Mr. Greisman is happy.");
+        }
+    }, 1000);
+}
+
+window.onload = function () {
+    var fiveMinutes = 60 * 15, display = document.getElementById('timer_label');
+    startTimer(fiveMinutes, display);
+};
+
 function readTextFile(file){
     var rawFile = new XMLHttpRequest();
     rawFile.open("GET", file, false);
@@ -206,7 +229,7 @@ function checkQuestion(){
       disable_elements();
 
       document.getElementById("new_question_button").style.visibility = "visible";
-      document.getElementById("score").innerHTML = "Score: " + correct + "/" + total + " (" + (correct/total)*100 + "%)"
+      document.getElementById("score").innerHTML = "Score: " + correct + "/" + total + " (" + ((correct/total)*100).toFixed(2) + "%)"
       
       //loadNewQuestion(null);
       //alert("current question: " + JSON.stringify(currentQuestion));
@@ -231,7 +254,7 @@ function showContent(){
 }
 
 function newChapter(){
-    var newChap = Math.floor(Math.random() * 11);
+    var newChap = Math.floor(Math.random() * 11) + 1;
     window.location.href = "https://chemistry.edwinfinch.com/?c=" + newChap;
     showContent();
     return false;
@@ -294,14 +317,14 @@ function loadQuestionFromURL(){
         </div>
 
         <div class="content">
-            <h2 class="content-subhead" align="center">How to get started</h2>
+            <h2 class="content-subhead" align="center">Get started</h2>
             <p>
     		To begin, click on a specific category in the sidebar located on the left, or click on the "get started" button below, which will
             bring you to a random chapter. There are 11 chapters, all with varying questions.<br><br>
             </p>
     		<div align="center">
     			<form onsubmit="return newChapter();">
-    				<button class="pure-button pure-button-primary" action="submit">Get Started</button>
+    				<button class="pure-button pure-button-primary" action="submit">Random Chapter</button>
     			</form>
     		</div>
             <br>
@@ -328,7 +351,7 @@ function loadQuestionFromURL(){
         
     <h2 id="status_label"></h2>   
 
-    <h2 class="content-subhead" id="question_label">Loading new question... Please wait.</h2>
+    <h2 class="content-subhead" id="question_label">Loading... If this doesn't do anything, please <a href="/">refresh.</a></h2>
     <p id="imagefix">
         <img src="" id="imageview" style="hidden;"></img>
     </p>
@@ -344,15 +367,16 @@ function loadQuestionFromURL(){
                 </label>
         <label for="option-c" class="pure-radio" id="l_option-c">
                         <input id="option-c" type="radio" name="s" value="C">
-                        Shout out to our chem class for being the best
+                        I hope you're having a good day. Sorry for the wait and/or broken site.<br>
+			
                 </label>
         <label for="option-d" class="pure-radio" id="l_option-d">
                         <input id="option-d" type="radio" name="s" value="D">
-                        D
+                        #sixseasonsandamovie
                 </label>
         <label for="option-e" class="pure-radio" id="l_option-e">
                         <input id="option-e" type="radio" name="s" value="E">
-            E
+            		There's always money in the banana stand!
                 </label>
         <input id="chapter" name="c" value="<?php echo $chapter ?>" hidden>
         <button action="submit" class="pure-button pure-button-primary" id="guess_button">Guess</button>
@@ -364,6 +388,7 @@ function loadQuestionFromURL(){
         <div id="footer" class="footer">
             <hr>
             <p id="score">No score yet :(</p>
+	    <p id="timer_label">15:00</p>
             <input type="checkbox" name="sounds" value="true" id="soundsenabled" checked="true"> Sound effects <br>
             <input type="checkbox" name="images" value="true" id="imagesenabled" checked="true"> Image questions
         </div>
