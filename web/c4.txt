@@ -1,417 +1,710 @@
-E
-(a) different atomic masses but the same atomic numbers.
-(b) the same molecular structure and molecular masses.
-(c) the same atomic number but different atomic masses.
-(d) different molecular masses but the same molecular structures.
-(e) different molecular structures but the same number and kind of atoms.
-Isomers have
----
-A
-(a) isomers
-(b) polymers
-(c) isotopes
-(d) allotropes
-null
-Compounds that have the same molecular formula but different structural formulas are known as
----
-B
-(a) isotopes
-(b) isomers
-(c) isotones
-(d) allotropes
-null
-U2.2.1.png
----
-C
-(a) a
-(b) b
-(c) c
-(d) d
-null
-U2.2.2.png
----
 D
-(a) Allotropes
-(b) Isotones
-(c) Isotopes
-(d) Isomers
-null
-The organic compounds, C2H5OH and H3CFOFCH3, are
----
-B
-(a) a
-(b) b
-(c) c
-(d) d
-null
-U2.2.3.png
----
-C
-(a) Phosphorus
-(b) Nitrogen
-(c) Carbon
-(d) Sulfur
-(e) Chlorine
-The element most often found in organic compounds is
----
-B
-(a) CH4
-(b) C2H2
-(c) C2H6
-(d) C3H8
-(e) C4H10
-The formula of an unsaturated hydrocarbon is
----
-B
-(a) Carbohydrates.
-(b) Hydrocarbons.
-(c) Esters.
-(d) Ketones.
-(e) Alcohols.
-The kind of molecules found in gasoline is mainly
----
-C
-(a) CnH2n+2	
-(b) C2nHn+2	
-(c) CnH2n
-(d) CnHn
-(e) CnHn+2
-The general formula for the unsaturated hydrocarbons containing only one double bond per molecule is
----
-C
-(a) C7H12
-(b) C7H14
-(c) C7H16
-(d) C7H18
-(e) C7H20
-In a homologous series of hydrocarbons, the third member is C3H8. Which is the seventh member?
----
-A
-(a) a
-(b) b
-(c) c
-(d) d
-null
-U2.2.4.png
----
-C
-(a) a
-(b) b
-(c) c
-(d) d
-null
-U2.2.5.png
----
-A
-(a) nothing
-(b) a single bond
-(c) a double bond
-(d) a triple bond
-null
-U2.2.6.png
----
-C
-(a) a
-(b) b
-(c) c
-(d) d
-null
-U2.2.7.png
----
-E
-(a) CH3CH2OCH3
-(b) CH3CH2CH2OH
-(c) CH3CH2CH2CH3
-(d) CH3CH2CH2CH2Cl
-(e) CH3CH(OH)CH2CH3
-Which is an isomer of CH3CH2CH2CH2OH?
----
-B
-(a) a 
-(b) b
-(c) c
-(d) d
-null
-U2.2.8.png
----
-B
-(a) single bond.
-(b) double bond.
-(c) triple bond.
-(d) ionic bond.
-null
-U2.2.9.png
----
-D
-(a) salts
-(b) bases
-(c) proteins
-(d) hydrocarbons
-(e) basic oxides
-Which class of compounds would give only carbon dioxide and water on complete combustion?
----
-D
-(a) CO and H2
-(b) CO and H2O
-(c) CO2 and H2
-(d) CO2 and H2O
-null
-Complete combustion of any hydrocarbon in air produces
----
-D
-(a) C2H5OH
-(b) CH3COOH
-(c) CO2 and H2
-(d) CO2 and H2O
-null
-The complete combustion of ethane, C2H6, produces
----
-E
-(a) Whler was unsuccessful in preparing urea from inorganic sources. This is the reason scientists believe in the vital force.
-(b) In modern chemistry an organic substance is any substance found in or produced by a living organism.
-(c) Most organic substances have high melting points.
-(d) When organic substances are burned, the most abundant products are carbon monoxide and formaldehyde.
-(e) It is common for a given molecular formula to represent two or more organic compounds.
-Which statement is true?
----
-C
-(a) Different compounds with the same molecular formula are called isotopes.
-(b) The most common intermolecular force for organic substances is the covalent bond.
-(c) The ability of atoms to join together in long chains is called catenation.
-(d) A compound that contains only carbon and hydrogen should be quite soluble in water because of hydrogen bonding.
-(e) The size of stable hydrocarbon molecules is limited to about 20 carbon atoms, because larger molecules are too easily broken apart.
-Which statement is correct?
----
-A
-(a) The most common bond angle in organic compounds is the tetrahedral bond angle, approximately 109.
-(b) A condensed formula does not give information about  molecular structure.
-(c) The smallest cyclic hydrocarbon contains four carbon atoms.
-(d) A molecule of cyclobutane has the same number of hydrogen atoms as a molecule of butane.
-(e) There are three possible structural isomers of C4H10.
-Which of the following statements is TRUE?
----
-B
-(a) In general, as molecular size increases in a homologous series of hydrocarbons, there is a decrease in boiling points.
-(b) In the alkane series, branched chain isomers have lower boiling points than their straight-chain isomers.
-(c) Molecules of straight chain alkanes have 90 and 180 bond angles.
-(d) Since alkanes have hydrogen atoms in them, and are capable of hydrogen bonding with water, alkanes are quite miscible with water.
-(e) Because of the strong covalent bonding in hydrocarbons, they are denser than water.
-Which statement is TRUE?
----
-D
-(a) The reaction is endothermic.
-(b) The reaction has low activation energy.
-(c) The reaction is a substitution.
-(d) The reaction is slow initially because strong covalent bonds must be broken.
-(e) Regardless of conditions, the reaction produces carbon dioxide and water as the only products.
-Which of the following is TRUE about the reaction of alkanes with oxygen?
----
-C
-(a) Cracking
-(b) Reforming
-(c) Fractional distillation
-(d) Polymerization
-(e) Combustion
-What is the name of the process used to separate petroleum into components with similar molecular size?
----
-D
-(a) Petroleum is formed by slow decomposition of calcium carbonate in the earth's crust.
-(b) Petroleum is a pure substance with the formula C8H18.
-(c) Tetraethyl lead, which is found as in impurity in crude petroleum, lowers the octane rating of gasoline.
-(d) In general, branched chain alkanes have a higher octane rating than their straight-chain isomers.
-(e) Gasoline is a mixture of hydrocarbons containing 10 to 20 carbon atoms per molecule.
-Which statement is true?
----
-D
-(a) 2, 2-dimethyl-4-hexene
-(b) 5, 5-dimethyl-3-hexene
-(c) 2-ethyl-4-hexene
-(d) 5, 5-dimethyl-2-hexene
-(e) 2, 2-dimethyl-5-hexene
-U2.2.10.png	
----
-B
-(a) 1-pentene
-(b) 2-pentene
-(c) 2-methyl-2-propene
-(d) 2-pentyne
-(e) pentane
-In which of the following compounds can cis-trans isomerism occur?
----
-E
-(a) Addition
-(b) Polymerization
-(c) Oxidation
-(d) hydrogenation
-(e) dehydration
-Which type of reaction is NOT typical for alkene hydrocarbons?
----
-A
-(a) Alkynes can exhibit structural isomerism but not geometric (cis-trans) isomerism.
-(b) Alkynes are neither acidic nor basic.
-(c) There are three isomers of C4H6 containing a triple bond.
-(d) Methyne is the first member of the alkyne series.
-(e) Alkynes do not readily undergo addition or hydration.
-Which statement is true?
----
-A
-(a) Benzene has the molecular formula C6H6.
-(b) Benzene is a prism-shaped molecule.
-(c) Benzene undergoes addition reactions in preference to substitution reactions.
-(d) If one hydrogen is replaced in a benzene molecule, two different structures result, depending on
-(e) The carbon-carbon bonds in benzene are of two different lengths and strengths.
-Which statement is true?
-hether the hydrogen was attached to a double-bonded carbon or a single- bonded carbon.
----
-E
-(a) In naming an alkene, the main chain is the longest carbon chain, even if it does not contain the double bond.
-(b) An alkene molecule is free to rotate around a double bond.
-(c) Addition reactions involving alkenes result in cis-trans isomers.
-(d) Alkenes will not react as readily with potassium permanganate solution as will alkanes.
-(e) Ethene is used to accelerate the ripening of fruit for sale.
-Which statement is true?
----
-C
-(a) Cyclobutane is an isomer of butyne.
-(b) Alkanes are capable of cis-trans isomerism.
-(c) Optical isomers are mirror images.
-(d) Hydrogenation of an alkyne produces an isomer of the alkyne.
-(e) Diethyl zinc is an important gasoline additive to improve octane rating.
-Which statement is true?
----
-B
-(a) oxidation
-(b) cracking
-(c) polymerization
-(d) substitution
-(e) addition
-When heated in the presence of a catalyst, C5H12 may be decomposed to form C2H4 and C3H8? This type of reaction is known by which of the following names?
----
-E
-null
-(b) 2-ethyloctane
-(c) 7-methyldecane
-(d) 3-methyldecane
-(e) 3-methylnonane
-U2.2.11.png
----
-A
-(a) 2, 2, 7-trimethyldecane
-(b) 2, 6-trimethyldecane
-(c) 4, 9, 9 trimethyldecane
-(d) 2, 3, 8-dimethyl-3-propyloctane
-(e) 7, 7-dimethyl-2-propyldecane
-U2.2.12.png	
----
-D
-(a) a
-(b) b
-(c) c
-(d) d
-(e) e
-U2.2.13.png
----
-A
-(a) It turns alkaline permanganate solution from purple to green.
-(b) It ignites when tested with a flaming splint.
-(c) It dissolves in water.
-(d) It turns litmus blue.
-(e) It has a pungent odour.
-What test may be used to determine whether a hydrocarbon is unsaturated?
----
-C
-(a) one
+(a) six
 (b) two
 (c) three
 (d) four
-(e) five
-How many isomers are there with the formula C5H12?
----
-E
-(a) methane
-(b) ethene
-(c) 1-butyne
-(d) benzene
-(e) methanol
-Which substance is not a hydrocarbon?
----
-C
-(a) Aliphatic hydrocarbons are those that contain a benzene ring.
-(b) Aromatic hydrocarbons are those that do not contain a benzene ring.
-(c) The benzene ring contains six carbon-carbon bonds which are stronger than single bonds.
-(d) Alkynes contain a carbon-carbon double bond.
-(e) Alkenes contain a carbon-carbon single bond.
-Which statement is TRUE?
----
-E
-(a) In general, as we ascend a homologous series, we observe an decrease in boiling points.
-(b) In the alkane series, branched-chain isomers have higher boiling points than their straight-chain isomers.
-(c) A hydrocarbon that does contains a double bond, a triple bond, or a benzene ring is said to be saturated.
-(d) The general formula of a straight-chain alkane is CnH2n
-(e) Cyclic alkanes contain fewer hydrogen atoms than straight-chain alkanes that have the same number of carbon atoms.
-Which statement is true?
----
-D
-(a) CH4
-(b) C2H6
-(c) C3H8
-(d) C4H10
-(e) C5H12
-Which hydrocarbon is used as a fuel in some cigarette lighters?
----
-E
-(a) hexane
-(b) cyclobutane
-(c) propyne
-(d) benzene
-(e) 1-pentene
-Which substance is an alkene?
----
-A
-(a) I and II
-(b) III and IV
-(c) II and III
-(d) I and IV
 null
-U2.2.14.png
----
-null
-(a) I
-(b) II
-(c) III
-(d) IV
-null
-U2.2.15.png
+How many significant digits are there in the number 0.002060?
 ---
 B
-(a) C2H6
-(b) C2H4
-(c) C2H4Br2
-(d) CO2
+(a) 5
+(b) 2
+(c) 3
+(d) 4
 null
-Which of the following will decolorize bromine water most quickly?
+How many significant figures should be quoted in the product (4.6 cm x 12.62 cm)?
+---
+C
+(a) 1 x 102
+(b) 1.0 x 102
+(c) 1.2 x 102
+(d) 12 x 102
+null
+The dimensions of a rectangular piece of metal are
+length - 15 cm          width - 8 cm
+What is the area in cm2? (Remember significant figures.)
+---
+B
+(a) 172.8 g
+(b) 173 g
+(c) 172.84 g
+(d) 172.842 g
+null
+With significant figures in mind, what is the sum of the following; 27.23 g, 30 g, 108.1 g, 7.512 g?
+---
+B
+(a) 1282.65 cm2
+(b) 1282.6 cm2
+(c) 1283 cm2
+(d) 1300 cm2
+null
+With significant figures in mind, what is the area of a floor measuring 256.53 cm by 5.0 cm?
+---
+C
+(a) 523 cm
+(b) 523.0 cm
+(c) 523.1 cm
+(d) 523.06 cm
+null
+With significant figures in mind, what is the perimeter of a floor measuring 256.53 cm by 5.0 cm?
+---
+C
+(a) 6.347 1
+(b) 6.347 112 9
+(c) 6.35
+(d) 6.34
+null
+With significant figures in mind, what is the correct answer to the following calculation?
+4 836.5762 
 ---
 A
-(a) the names of hydrocarbons containing double bonds end in -ene
-(b) the prefix "butyl" denotes three carbons
-(c) they are quite unreactive
-(d) the most characteristic reaction is one of esterification
+(a) 40.5 u
+(b) 40.8 u
+(c) 41.0 u
+(d) 41.5 u
 null
-Which of the following applies to unsaturated hydrocarbons?
+A hypothetical element X has three isotopes: 40X, 41X, and 42X. Their abundances are 72.0%, 9.00%, and 19.0% respectively. What is the atomic mass of X?
+---
+C
+(a) 31.0
+(b) 39.0
+(c) 69.8
+(d) 70.0
+null
+Naturally occurring gallium is 60% 69Ga and 40% 71Ga by mass. The average atomic mass of this element is
+---
+C
+(a) The two isotopes of chlorine have different chemical properties
+(b) The abundance of 37Cl is approximately three times that of 35Cl
+(c) The abundance of 35Cl is approximately three times that of 37Cl
+(d) Each chlorine atom contains 17 protons, 17 electrons and 18.5 neutrons
+null
+The relative atomic mass of chlorine is 35.5. Which one of the following statements is true?
+---
+C
+(a) 102.5
+(b) 105.0
+(c) 107.5
+(d) 315.0
+null
+Suppose that three isotopes of element X occur in nature as follows:
+ISOTOPE      	ATOMIC MASS  	  %
+------------      	--------------------  	-----
+1        		110.0    		60.0
+2       		105.0    		30.0
+3         	100.0   		10.0
+The relative atomic mass of the naturally occurring mixture of element X is
+---
+B
+(a) 11.2
+(b) 2.00
+(c) 22.4
+(d) 4.00
+null
+The number of moles of nitrogen molecules in 56.0 g of N2  is
 ---
 A
-(a) 2 C6H14 + 19 O2 -> 12 CO2 + 14 H2O
-(b) C6H14 + 19 O2 -> 6 CO2 + 7 H2O
-(c) 2 C6H14 + 13 O2 -> 12 CO + 14 H2O
-(d) C6H14+ 13 O2 -> 6 CO + 7 H2O
+(a) 0.015
+(b) 0.12
+(c) 0.44
+(d) 2.2
 null
-Which of the following is the correct balanced equation for the combustion in an abundance of oxygen?
+The number of moles of CO2  in 0.66 g of the gas is
+---
+B
+(a) 0.67
+(b) 0.75
+(c) 1.3
+(d) 1.5
+null
+The number of moles of N2  present in 21 g of the gas is
+---
+B
+(a) 12.5
+(b) 25.0
+(c) 50.0
+(d) 100
+null
+The number of moles of He present in 100 g of the gas is
+---
+B
+(a) 2 x 10^23g
+(b) 4 x 10^-23g
+(c) 10^23g
+(d) 6 x 10^23g
+null
+The molar mass of Mg is 24 g. One atom of magnesium has a mass of
+---
+B
+(a) 0.010
+(b) 0.020
+(c) 0.080
+(d) 0.040
+null
+How many moles of O2 are present in 0.64 g of the gas?
+---
+D
+(a) 77.0
+(b) 116
+(c) 346
+(d) 386
+null
+The relative molecular mass of cholesterol, C27H46O is
+---
+D
+(a) 32 g
+(b) 48 g
+(c) 64 g
+(d) 96 g
+null
+The mass of O2 in 3.0 moles is
+---
+C
+(a) 6.00 x 35.5g
+(b) 2.00 x 35.5g
+(c) 8.00 x 35.5g
+(d) 4.00 x 35.5g
+null
+The mass of 4.00 moles of Cl2 is
+---
+D
+(a) 1.2 x 10^21
+(b) 3.01 x 10^22
+(c) 6.02 x 10^21
+(d) 1.2 x 10^22
+null
+How many molecules of SO2 are contained in 1.28 g?
+---
+C
+(a) 1.9 g
+(b) 3.8 g
+(c) 19 g
+(d) 38 g
+null
+The mass of 6.02 x 10^23 atoms of fluorine is
+---
+C
+(a) 1.0 g of H2
+(b) 16 g of O2
+(c) 34 g of H2S
+(d) 44 g of SO2
+null
+The sample of a gas which contains the same number of molecules as 44 g of CO2 gas is
+---
+B
+(a) 1.0 g
+(b) 2.0 g
+(c) 16 g
+(d) 4.0 g
+null
+A sample of O2 at STP, has a mass of 32 g. The mass of the same number of H2 molecules is
+---
+D
+(a) 43.0 g
+(b) 72.0 g
+(c) 78.0 g
+(d) 96.0 g
+null
+The mass of one mole of (NH4)2CO3 is
+---
+B
+(a) 0.67
+(b) 1.5
+(c) 5.43 x 10^7
+(d) 22.4
+null
+How many moles of CH4 are represented by 9.03 x 10^23 molecules  of CH4?
+---
+B
+(a) 5
+(b) 6
+(c) 3
+(d) 4
+null
+How many atoms are represented by the formula Mg(OH)2 ?
 ---
 A
-(a) I
-(b) II
-(c) III
+(a) 3.00
+(b) 3.40
+(c) 6.80
+(d) 867
+null
+The number of moles of molecules in 51 g of NH3 is
+---
+C
+(a) 32.0 x 10^23
+(b) 16.0 x 10^23
+(c) 6.02 x 10^23
+(d) 30.1 x 10^23
+null
+The number of hydrogen atoms in 0.500 mol of H2 is
+---
+D
+(a) 24.08 x 10^23
+(b) 6.02 x 10^23
+(c) 44
+(d) 4
+null
+How many moles of CO2  are there in 176 g of CO2 ?
+---
+D
+(a) 15
+(b) 45
+(c) 75
+(d) 90
+null
+A compound of simplest formula CH2O might have a relative molecular mass of
+---
+E
+(a) One molecule of sulfur dioxide
+(b) One liter of sulfur dioxide
+(c) One atom of sulfur dioxide
+(d) 6.02 x 10^23 atoms of sulphur dioxide
+(e) 6.02 x 10^23 molecules of sulphur dioxide
+The molar mass of sulphur dioxide is the mass of
+---
+E
+(a) 3
+(b) 12
+(c) 3 x  6.02 x 10^23
+(d) 4 x  6.02 x 10^23
+(e) 12 x  6.02 x 10^23
+Determine the number of oxygen atoms in one mole of Al2(SO4 )3 .
+---
+C
+(a) 1.0
+(b) 0.5
+(c) 2.0
+(d) 44
+(e) 88
+The number of moles of carbon dioxide in 88 g of CO2 is
+---
+D
+(a) 0.33
+(b) 0.67
+(c) 1.0
+(d) 1.5
+(e) 2.0
+Approximately how many moles of molecules are in 96 g of sulphur dioxide?
+---
+C
+(a) 6.02 x 10^23
+(b) 3.01 x 10^23
+(c) 1.505 x 10^23
+(d) 22.4
+(e) 5.6
+Consider element "X". If one mole of gaseous X2 weighs 60g, then how many molecules are there in 15g?
+---
+B
+(a) 0.25
+(b) 0.50
+(c) 1.0
+(d) 2.0
+null
+In 39 g of CaF2 there is/are ____ mole(s) of molecules.
+---
+A
+(a) 80 g of oxygen
+(b) 35 g of nitrogen
+(c) 66 g of carbon dioxide
+(d) 46 g of sodium
+null
+Which of the following represents 2.5 moles?
+---
+C
+(a) 18 
+(b) 33 
+(c) 18 g
+(d) 33 g
+null
+The molar mass of H2O is approximately
+---
+E
+(a) 3
+(b) 12
+(c) 3 x  6.02 x 10^23
+(d) 4 x  6.02 x 10^23
+(e) 12 x  6.02 x 10^23
+Determine the number of oxygen atoms in one mole of Al2(SO4)3 .
+---
+B
+(a) 11.2
+(b) 2.00
+(c) 22.4
+(d) 4.00
+null
+The number of moles of nitrogen molecules in 56.0 g of N2 is
+---
+A
+(a) 0.015
+(b) 0.12
+(c) 0.44
+(d) 2.2
+null
+The number of moles of CO2 in 0.66 g of the gas is
+---
+B
+(a) 0.67
+(b) 0.75
+(c) 1.3
+(d) 1.5
+null
+The number of moles of N2 present in 21 g of the gas is
+---
+B
+(a) 12.5
+(b) 25.0
+(c) 50.0
+(d) 100
+null
+The number of moles of He present in 100 g of the gas is
+---
+B
+(a) 2 x 10^23g
+(b) 4 x 10^-23g
+(c) 10^23g
+(d) 6 x 10^23g
+null
+The molar mass of Mg is 24 g. One atom of magnesium has a mass of
+---
+B
+(a) 0.010
+(b) 0.020
+(c) 0.080
+(d) 0.040
+null
+How many moles of O2 are present in 0.64 g of the gas?
+---
+D
+(a) 77.0
+(b) 116
+(c) 346
+(d) 386
+null
+The relative molecular mass of cholesterol, C27H46O is
+---
+D
+(a) 61.0
+(b) 114
+(c) 118
+(d) 132
+null
+The relative molecular mass of (NH4)2SO4 is
+---
+D
+(a) 32 g
+(b) 48 g
+(c) 64 g
+(d) 96 g
+null
+The mass of O2 in 3.0 moles is
+---
+C
+(a) 6.00 x 35.5 g
+(b) 2.00 x 35.5 g
+(c) 8.00 x 35.5 g
+(d) 4.00 x 35.5 g
+null
+The mass of 4.00 moles of Cl2 is
+---
+D
+(a) 1.2 x 10^21
+(b) 3.01 x 10^22
+(c) 6.02 x 10^21
+(d) 1.2 x 10^22
+null
+How many molecules of SO2 are contained in 1.28 g?
+---
+C
+(a) 1.9 g
+(b) 3.8 g
+(c) 19 g
+(d) 38 g
+null
+The mass of 6.02 x 10^23 atoms of fluorine is
+---
+C
+(a) 1.0 g of H2
+(b) 16 g of O2
+(c) 34 g of H2S(d) 44 g of SO2
 null
 null
-U2.2.16.png
+The sample of a gas which contains the same number of molecules as 44 g of CO2 gas is
+---
+B
+(a) 1.0 g
+(b) 2.0 g
+(c) 16 g
+(d) 4.0 g
+null
+A sample of O2 at STP, has a mass of 32 g. The mass of the same number of H2 molecules is
+---
+D
+(a) 43.0 g
+(b) 72.0 g
+(c) 78.0 g
+(d) 96.0 g
+null
+The mass of one mole of (NH4)2CO3 is
+---
+C
+(a) 12
+(b) 18
+(c) 22
+(d) 29
+null
+How many atoms are represented by the formula Na2S2O3 F5H2O?
+---
+B
+(a) 0.67
+(b) 1.5
+(c) 5.43 x 10^47
+(d) 22.4
+null
+How many moles of CH4 are represented by 9.03 x 10^23 molecules of CH4?
+---
+A
+(a) 5
+(b) 6
+(c) 3
+(d) 4
+null
+How many atoms are represented by the formula Mg(OH)2?
+---
+A
+(a) 3.00
+(b) 3.40
+(c) 6.80
+(d) 867
+null
+The number of moles of molecules in 51 g of NH3 is
+---
+C
+(a) 32.0 x 10^23
+(b) 16.0 x 10^23
+(c) 6.02 x 10^23
+(d) 30.1 x 10^23
+null
+The number of hydrogen atoms in 0.500 mol of H2 is
+---
+D
+(a) 24.08 x 10^23
+(b) 6.02 x 10^23
+(c) 44
+(d) 4
+null
+How many moles of CO2 are there in 176 g of CO2?
+---
+D
+(a) 15
+(b) 45
+(c) 75
+(d) 90
+null
+A compound of simplest formula CH2O might have a relative molecular mass of
+---
+E
+(a) One molecule of sulfur dioxide
+(b) One liter of sulfur dioxide
+(c) One atom of sulfur dioxide
+(d) 6.02 x 10^23 atoms of sulphur dioxide
+(e) 6.02 x 10^23 molecules of sulphur dioxide
+The molar mass of sulphur dioxide is the mass of
+---
+E
+(a) 3
+(b) 12
+(c) 3 x  6.02 x 10^23
+(d) 4 x  6.02 x 10^23
+(e) 12 x  6.02 x 10^23
+Determine the number of oxygen atoms in one mole of Al2(SO4)3 .
+---
+C
+(a) 1.0
+(b) 0.5
+(c) 2.0
+(d) 44
+(e) 88
+The number of moles of carbon dioxide in 88 g of CO2 is
+---
+D
+(a) 0.33
+(b) 0.67
+(c) 1.0
+(d) 1.5
+(e) 2.0
+Approximately how many moles of molecules are in 96 g of sulphur dioxide?
+---
+C
+(a) 6.02 x 10^23
+(b) 3.01 x 10^23
+(c) 1.505 x 10^23
+(d) 22.4
+(e) 5.6
+Consider element "X". If one mole of gaseous X2 weighs 60 g, then how many  molecules are there in
+15 g?
+---
+B
+(a) 0.25
+(b) 0.50
+(c) 1.0
+(d) 2.0
+null
+In 39 g of CaF2 there is/are ____ mole(s) of molecules.
+---
+A
+(a) 80 g of oxygen
+(b) 35 g of nitrogen
+(c) 66 g of carbon dioxide
+(d) 46 g of sodium
+null
+Which of the following represents 2.5 moles?
+---
+C
+(a) 18 u
+(b) 33 u
+(c) 18 g
+(d) 33 g
+null
+The molar mass of H2O is approximately
+---
+B
+(a) 3.01 x 10^23 	molecules
+(b) 12.04 x 10^23 	molecules
+(c) 3.01 x 10^23 	atoms
+(d) 12.04 x 10^23	atoms
+null
+Two moles of CO2 is the same as
+---
+C
+(a) 1, 2, 4
+(b) 2, 3, 4
+(c) 1, 2
+(d) 3, 4
+null
+In all chemical reactions we always have conservation of
+1 - Mass
+2 - Number of atoms
+3 - Volume
+4 - Number of molecules
+---
+B
+(a) 69.5
+(b) 41
+(c) 30.5
+(d) 59
+(e) none of the above
+If 20 g of sodium burns completely in oxygen to produce 33.9 g of sodium peroxide, what is the percentage of oxygen in the sodium peroxide?
+---
+B
+(a) Definite Composition
+(b) Conservation of Mass
+(c) Conservation of Energy
+(d) Combining Gas Volumes
+(e) Definite Proportions
+In any chemical reaction, the total mass of chemicals reacting is the same as the total mass of chemicals produced. This fact illustrates the Law of
+---
+B
+(a) Volume of the reactants equals the volume of the products
+(b) Mass of the reactants equals the mass of the products
+(c) Masses of the combining elements are equal
+(d) Volumes of the combining elements are equal
+null
+In all chemical reactions, the
+---
+C
+(a) 19.7% sodium and 80.3% chlorine
+(b) 19.6 g sodium in each 50 g of sodium chloride
+(c) 39.3 g of sodium and 60.7 g of chlorine
+(d) 23.0 g sodium and 35.5 g chlorine
+null
+An Ontario sample of the compound sodium chloride is found to consist of 39.3% sodium, by mass and 60.7% chlorine, by mass. A sample of pure sodium chloride found in the southern United States consists of
+---
+C
+(a) CHO
+(b) C2HO
+(c) CH2O
+(d) CH3O
+null
+The composition of a compound is found to be; 40.0% C, 6.67% H and 53.33% O by mass. The simplest formula is
+---
+B
+(a) KCrO4
+(b) K2Cr2O7
+(c) K2Cr2O8
+(d) K26 Cr35 O39
+null
+A 100 g sample of a compound is composed of 26.5 g of potassium, 35.4 g of chromium and the balance is oxygen. The simplest formula for the compound is
+---
+C
+(a) CH
+(b) CH2
+(c) CH3
+(d) CH4
+null
+A compound is found to be 80% C and 20% H by mass. The simplest formula of the compound is
+---
+C
+(a) C6H
+(b) C36H6
+(c) CH2
+(d) C2H
+null
+A sample of a compound consists of 6.0 g of hydrogen and 36 g carbon. Its simplest formula is
+---
+C
+(a) SO
+(b) S2O
+(c) SO2
+(d) S2O3
+null
+A sample of a compound which contains only sulphur and oxygen is found to contain equal masses of the two elements. The simplest formula for the compound is
+---
+B
+(a) The atomic symbols are shown without subscripts
+(b) Only the atomic ratios are given
+(c) The subscripts of the elements are 1
+(d) All of the subscripts are > 1
+null
+The simplest formula of a compound is one in which
+---
+B
+(a) CH2O
+(b) C2H4O2
+(c) C4H2O4
+(d) C4H2O6
+null
+If the relative molecular mass of a compound with simplest formula is CH2O is 60 u, then the molecular formula is
+---
+A
+(a) C3H6N6
+(b) C3H8N6
+(c) CH2N2
+(d) C2H4N4
+null
+The simplest formula of an unknown compound is found to be CH2N2. The molar mass of the compound is determined to be 126 g. The molecular formula must then be
+---
+A
+(a) CH4O
+(b) C2H8O2
+(c) C3H12O3
+(d) C5H10O5
+null
+The relative molecular mass of a compound is 32 and its simplest formula is CH4O. The molecular formula is
+---
+C
+(a) The total number of atoms in the molecule
+(b) The kind of atoms in the molecule
+(c) How many of each kind of atom are in the molecule
+(d) The number and physical position of each kind of atom in the molecule
+null
+Which statement summarizes ALL the information contained in a molecular formula?
+---
+C
+(a) Spontaneously
+(b) With the evolution of heat
+(c) In a constant ratio by mass
+(d) In a constant ratio by volume
+null
+The Law of Definite Proportions states that elements always combine with each other
 ---

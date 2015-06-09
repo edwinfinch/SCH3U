@@ -1,5 +1,5 @@
 <?php
-$unitNames = array("Structure", "Bonding", "Naming Rxns", "Organic Molecules", "Moles", "Mass Stoich.", "Solutions", "Solubility", "Acids", "Gas Laws", "Gas Stoich.");
+$unitNames = array("", "Structure", "Bonding", "Naming Rxns", "Moles", "Mass Stoich.", "Solutions", "Solubility", "Acids", "Gas Laws", "Gas Stoich.");
 $chapter = $_GET["c"];
 ?>
 <!doctype html>

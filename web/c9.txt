@@ -1,1420 +1,827 @@
-C
-(a) Is usually a basic compound
-(b) Turns red litmus blue
-(c) An acid which contains at least three elements including oxygen
-(d) Is a binary compound
-null
-An oxy acid is a compound which
----
-C
-(a) Ammonia
-(b) Acetic acid
-(c) Hydrochloric acid
-(d) Methyl alcohol
-null
-Which of the following compounds would be most highly dissociated or ionized in water at room temperature and pressure
----
-C
-(a) An acidic solution
-(b) A basic solution
-(c) A neutral solution
-(d) A solid solution
-null
-A solution which contains an equal number of hydrogen ions and hydroxide ions is
----
-B
-(a) The hydroxide ion
-(b) The hydrogen ion
-(c) The negative ion
-(d) The oxide ion
-null
-The species responsible for the acidic properties of any aqueous acid is
----
 A
-(a) Dissolves in water to form a solution which conducts electricity
-(b) Will generate electricity when a pair of copper electrodes are immersed in it
-(c) Is a substance whose molecules are covalently bonded
-(d) Is an electrically charged solution
-(e) Has an excess of electrons which can be used to light an electric bulb
-An electrolyte
----
-B
-(a) NH3  + H2 -> NH4^1+ OH^-1
-(b) HNO3 + H2O -> H3O^+1 + NO3^-1
-(c) H^+1 + H2O -> H3O^+1
-(d) NaOH -> Na^+1 + OH^-1
-(e) NaCl -> Na^+1 + Cl^-1
-Select the equation which represents the ionization of an acid in water.
----
-D
-(a) The ions have more charge
-(b) There are fewer ions formed
-(c) The ions move faster
-(d) There are more ions formed
+(a) a solid to a gas
+(b) a liquid to a gas
+(c) a solid to a liquid
+(d) a gas to a liquid
 null
-Some acids are strong electrolytes while some are weak. The difference is due to the fact that in the case of the strong electrolytes
----
-D
-(a) The type of ion
-(b) The solubility
-(c) The concentration
-(d) The degree of dissociation
-null
-Which of the following properties best distinguishes between strong and weak electrolytes?
----
-D
-(a) effect on litmus paper
-(b) measurement of solubility
-(c) determination of concentration
-(d) measurement of electrical conductivity
-null
-Which of the following could be used to determine whether or not an acid is strong or weak?
----
-D
-(a) is an ionic compound which contains hydrogen atoms
-(b) produces an aqueous solutions which has a pH > 7
-(c) is always a neutral molecule
-(d) releases hydrogen ions in aqueous solution.
-null
-An Arrhenius acid
----
-C
-(a) a concentrated strong acid
-(b) a dilute strong acid
-(c) a concentrated weak acid
-(d) a dilute weak acid
-null
-A 12 M solution of HC2H3O2 (acetic acid) is best described as
----
-D
-(a) CsOH
-(b) NaCl
-(c) NH3
-(d) HCN
-null
-Which of the following is an Arrhenius acid?
----
-B
-(a) turns phenolphthalein pink
-(b) reacts with water to form hydrogen ions
-(c) turns litmus paper blue
-(d) reacts with water to form hydroxide ions
-null
-A substance is an Arrhenius acid if it
----
-C
-(a) NH3
-(b) CN^-1
-(c) Ca(OH)2
-(d) BaO
-null
-Which of the following is an Arrhenius base?
----
-D
-(a) All acids are strong electrolytes.
-(b) All bases are strong electrolytes.
-(c) All acid solutions with a concentration of greater than 1mol/L are strong acids.
-(d) The strongest acids are those which ionize to the greatest extent when dissolved in water.
-(e) Water can act as either an acid or a base, and is thus one of the strongest electrolytes of all.
-Which of the following statements concerning acids and bases is true?
----
-C
-(a) turns litmus paper blue
-(b) has a salty taste
-(c) has a sour taste
-(d) feels slippery
-null
-An acidic solution, such as vinegar,
----
-B
-(a) they feel slippery
-(b) they turn bromthymol blue yellow
-(c) they neutralize acids
-(d) they turn litmus paper blue
-null
-Which of the following is NOT a property of dilute aqueous base solutions
----
-B
-(a) turn litmus blue
-(b) have a sour taste
-(c) conduct electricity
-(d) neutralize acids
-(e) provide hydroxide ions
-Select the FALSE statement concerning bases in water solutions.
----
-D
-(a) turn litmus red
-(b) have a sour taste
-(c) may result from dissolving the oxide of a non-metal
-(d) may result from dissolving a metal oxide
-(e) neutralize bases
-Select the FALSE statement concerning acids in water solutions.
----
-C
-(a) they have a bitter taste
-(b) they feel slippery
-(c) they turn litmus red
-(d) they form salts with acids
-(e) they accept protons during reaction
-Select the CORRECT statement about acids
----
-B
-(a) 1, 2
-(b) 1, 3
-(c) 1, 4
-(d) 2, 3
-(e) 2, 4
-Which of the following are properties of acids?
-1 - sour taste
-2 - slippery feel
-3 - turns litmus red
-4 - pH > 7
----
-A
-(a) 1, 3, 5
-(b) 2, 3, 4
-(c) 1, 2, 4
-(d) 1, 4, 5
-(e) 2, 3, 5
-Select those properties which are characteristics of bases.
-1 - turn red litmus blue
-2 - react with certain metals to liberate hydrogen
-3 - taste bitter
-4 - furnish H^+1 ions to a water solution
-5 - in water solution conduct electricity
----
-D
-(a) 2, 3
-(b) 1, 3, 4
-(c) 1, 3, 5
-(d) 1, 2, 3, 4
-(e) 1, 3, 4, 5
-Select ALL characteristics of an acidic solution.
-1 - react with active metals to liberate hydrogen
-2 - turn litmus red
-3 - conduct electricity
-4 - neutralize bases
-5 - turn litmus blue
----
-D
-(a) they contain a high concentration of metallic ions
-(b) they contain a high concentration of hydronium ions
-(c) they hardly dissociate into their constituent ions
-(d) they contain a high concentration of hydroxide ions
-null
-Some aqueous solutions are strongly basic because
----
-B
-(a) H2O
-(b) H^+1
-(c) H
-(d) OH^-1
-(e) HO
-The properties of acids are due the presence of the common
----
-B
-(a) 10^-7
-(b) less than 7
-(c) greater than 7
-(d) 7
-null
-In acidic solutions the pH is
----
-A
-(a) are good conductors of electricity	
-(b) turns litmus red
-(c) have a pH of 7
-(d) react with copper to produce hydrogen
-null
-Aqueous solutions of strong acids and bases
----
-B
-(a) [H^+1] increases and pH decreases	
-(b) [H^+1] decreases and pH increases
-(c) [H^+1] and pH both increase
-(d) [H^+1] and pH both decrease
-null
-If the concentration of acid in a solution is decreased, the
----
-B
-(a) 10^+4 M
-(b) 10^-4 M
-(c) 10^-10 M
-(d) 4 M
-null
-What is the concentration of H3O^+1 in a solution whose pH is 4?
----
-C
-(a) 1
-(b) 2
-(c) 3
-(d) 4
-null
-The pH of a 0.001 M solution of HCl is
----
-C
-(a) 0.015
-(b) 0.085
-(c) 1.82
-(d) 2.18
-null
-What is the pH of a 0.015 M aqueous solution of HCl?
----
-A
-(a) 1.3
-(b) 2.0
-(c) 2.3
-(d) 5.0
-null
-A 0.050 M HCl solution has a pH of
----
-C
-(a) 1.0
-(b) 10
-(c) 3.0
-(d) 14
-null
-The hydrogen ion concentration of a solution is found to be 0.0010 M. The pH is
----
-D
-(a) 10^-10
-(b) 10^-4
-(c) 10
-(d) 4.0
-null
-The pH of 0.00010 M nitric acid solution is
----
-D
-(a) > hydroxide
-(b) < 10^-7
-(c) 10^-7
-(d) > 10^-7
-null
-In basic solutions the hydrogen ion concentration is
----
-C
-(a) 0.24
-(b) 0.38
-(c) 0.62
-(d) 1.74
-null
-What is the pH of a 0.24 M solution of the very strong acid HCl?
----
-B
-(a) 10^4
-(b) 10^-4
-(c) 10^-10
-(d) 4
-null
-What is the H3O^+1 concentration in mol/L in a solution with a pH of 4?
----
-A
-(a) the [H^+1] increases and pH decreases
-(b) the [H^+1] decreases and pH increases
-(c) the [H^+1] and pH both increase
-(d) the [H^+1] and pH both decrease
-(e) there is no change in [H^+1] but pH decreases
-If the acid concentration of a solution is increased,
----
-A
-(a) 2.0 x 10^-5 M
-(b) 5.0 x 10^-4 M
-(c) 4.7 M
-(d) 9.3 M
-null
-The hydrogen ion concentration in an aqueous solution whose pH is 4.70 is
----
-A
-(a) 1.3
-(b) 2.0
-(c) 2.3
-(d) 5.0
-null
-A 0.050 M HCl solution has a pH of
----
-C
-(a) 10^-9 and 10^-5
-(b) 10^-5 and 10^-5
-(c) 10^-5 and 10^-9
-(d) 10^-7 and 10^-7
-null
-The pH of a solution is 5. The hydrogen ion and hydroxide ion concentrations are, respectively
----
-C
-(a) 1.0
-(b) 10
-(c) 3.0
-(d) 14
-null
-The hydrogen ion concentration of a solution is found to be 0.0010 M. The pH is
----
-D
-(a) 10^-10
-(b) 10^-4
-(c) 10
-(d) 4.0
-null
-The pH of 0.00010 M nitric acid solution is
----
-D
-(a) 10^-13 M
-(b) 10^-12 M
-(c) 10^-2 M
-(d) 10^-1 M
-null
-HI is a very strong acid. In an aqueous solution of 0.1 M HI, the hydronium ion concentration is
----
-D
-(a) 10^-8 M
-(b) 10^-6 M
-(c) 10^6 M
-(d) 10^8 M
-null
-The [H^+1] in a solution of pH = 8 is
----
-C
-(a) 0.24
-(b) 0.38
-(c) 0.62
-(d) 1.74
-null
-What is the pH of a 0.24 M solution of the very strong acid HCl?
----
-D
-(a) oxide ions
-(b) potassium ions
-(c) ammonium ions
-(d) hydroxide ions
-(e) hydronium ions.
-Certain solutions are strongly basic due to the high concentration of
----
-C
-(a) an electron
-(b) a deuteron
-(c) a proton
-(d) a neutron
-(e) a positron
-The hydronium ion is a complex ion composed of water and
----
-D
-(a) hydrolysis
-(b) ionization
-(c) hydrogenation
-(d) neutralization
-(e) photosynthesis
-What name is given to the reaction between hydrogen ions and hydroxide ions?
+If a substance sublimates than it may have changed from
 ---
 E
-(a) oxide ions.
-(b) chloride ions.
-(c) nitride ions.
-(d) sulfide ions.
-(e) hydronium ions.
-The characteristic ions present in water solutions of acids are
+(a) vaporization fusion, solidification, sublimation
+(b) solidification, fusion, vaporization, sublimation
+(c) solidification, sublimation, fusion, vaporization
+(d) fusion, vaporization, sublimation, solidification
+(e) solidification, sublimation, vaporization, fusion
+Below are the descriptions of four state changes.
+1	- liquid to solid
+2	- solid to gas
+3	- liquid to gas
+4	- solid to liquid
+Their names, in the same order, are
+---
+C
+(a) 1, 2, 3, 4
+(b) 2, 4, 1, 3
+(c) 3, 1, 4, 2
+(d) 4, 2, 1, 3
+(e) 3, 2, 1, 4
+Place the following descriptions of a change in state in the same order as their names - melting, boiling, freezing, condensation.
+1 - transition from liquid to gas
+2 - transition from gas to liquid
+3 - transition from solid to liquid
+4 - transition from liquid to solid
 ---
 D
-(a) oxide ions
-(b) potassium ions
-(c) ammonium ions
-(d) hydroxide ions
-(e) hydronium ions.
-Certain solutions are strongly basic due to the high concentration of
+(a) 104 kPa
+(b) 1.03 atm
+(c) 0.974 kPa
+(d) 98.6 kPa
+null
+A pressure of 740 mm of Hg is the same as
+---
+D
+(a) 0.9457 atm
+(b) 1.057 atm
+(c) 1.06 atm
+(d) 0.946 atm
+null
+A pressure of 95.8kPa is the same as
+---
+D
+(a) Pascal
+(b) Torricelli
+(c) Newton
+(d) Boyle
+(e) Gay-Lussac
+The relationship between pressure and volume for a sample of gas was first determined by
+---
+B
+(a) 6.1
+(b) 32
+(c) 61
+(d) 128
+null
+The pressure in a 14 L sample of N2  gas is 64 kPa. The pressure is decreased to 28 kPa at constant temperature. The new volume of the gas, in L, will be
+---
+D
+(a) increase to double
+(b) remain the same
+(c) decrease very slightly
+(d) decrease to half
+null
+Doubling the initial pressure, at constant temperature, under which 1000 mL of a gas was confined causes the volume of the gas to
+---
+D
+(a) 0.500 L
+(b) 2.00 L
+(c) 10.0 L
+(d) 12.5 L
+null
+A cylinder contains 2.50 L of air at a pressure of 505 kPa. At what volume, assuming constant
+emperature, will the air exert a pressure of 101 kPa?
+---
+D
+(a) 459 mL
+(b) 98 mL
+(c) 0.01 mL
+(d) 196 mL
+(e) 49 mL
+A sample of gas with a volume of 300 mL is compressed to 150 kPa from 98 kPa. What is its new volume?
+---
+D
+(a) 25.3 kPa
+(b) 50.6 kPa
+(c) 101 kPa
+(d) 202 kPa
+null
+At a constant temperature, 600 mL of an gas is at a pressure of 101 kPa. If the volume is decreased to 300 mL, the pressure of the gas will be
+---
+C
+(a) three times the original pressure
+(b) 2/3 of the original pressure
+(c) 1/3 of the original pressure
+(d) the same as the original pressure
+null
+If the temperature remains constant while the volume of a given amount of gas is tripled, the pressure will be
+---
+A
+(a) 200 mL
+(b) 300 mL
+(c) 600 mL
+(d) 1.8 x 103  mL
+null
+A sample of O2 occupies a volume of 600 mL. If the pressure  exerted on the O2 is tripled while its temperature remains  the same, the new volume of the oxygen will be
+---
+A
+(a) 4 x the original
+(b) 2 x the original
+(c) 1/2 the original
+(d) 1/4 the original
+null
+Consider 240 L of oxygen at 20C. If the volume is reduced to 60 L at the same temperature then the new pressure will be
+---
+A
+(a) V1T2  = V2 T1
+(b) V2T2  = V1T1
+(c) V1P1  = V2P2
+(d) V1P2  = V2P1
+null
+Charles Law can be expressed as
+---
+B
+(a) The Combined Gas Law
+(b) Gay-Lussac's Gas Law
+(c) Boyle's Law
+(d) Avagadro's Principle
+null
+The following
+"The pressure of a given mass of gas varies directly as the absolute temperature if the the volume is kept constant."
+is a statement of
 ---
 E
-(a) oxide ions
-(b) hydronium ions
-(c) sodium ions
-(d) ammonium ions
-(e) hydroxide ions
-Which ions account for the alkalinity of bases in water solution?
+(a) 248
+(b) -248
+(c) 25
+(d) 6825
+(e) 298
+What is 25C on the Kelvin scale?
+---
+A
+(a) 248
+(b) -223
+(c) 25
+(d) 6825
+(e) 298
+What is -25C on the Kelvin scale?
 ---
 D
-(a) catalysis.
-(b) decomposition.
-(c) hydrolysis.
-(d) neutralization.
-(e) photosynthesis.
-When hydronium (hydrogen) ions and hydroxide ions unite to form water the process is known as
----
-E
-(a) catalysis.
-(b) hydrolysis.
-(c) electrolysis.
-(d) hydrogenation.
-(e) neutralization.
-The combination of hydronium ions with hydroxide ions is known as
+(a) the temperature at which water freezes
+(b) -273 K
+(c) 0C
+(d) 0 K
+null
+The expression "absolute zero" refers to
 ---
 A
-(a) basic
-(b) acidic
-(c) neutral
-(d) unsaturated
+(a) 238
+(b) 293
+(c) 308
+(d) 333
 null
-Which term is applied to an aqueous solution whose hydrogen ion concentration, [H^+1], is less than its hydroxide ion concentration, [OH^-1]?
----
-C
-(a) H2O and OH^-1
-(b) HCO3^-1 and OH^-1
-(c) H2O and HCO3^-1
-(d) CO3^-2 and HCO3^-1
-(e) H2O and CO3^-2
-According to the BrnstedFLowry concept of acidFbase reactions, the acids in the equation are H2O + CO3^-2 -> HCO3^-1 + OH^-1
----
-A
-(a) acidFbase.
-(b) electrolysis.
-(c) decomposition
-(d) double replacement.
-(e) oxidationFreduction.
-The reaction, NH3 + HCl -> NH4^+1 + Cl^-1, is classified as
----
-C
-(a) a Lewis acid.
-(b) a Brnsted acid.
-(c) a Brnsted base.
-(d) an oxidizing agent.
-(e) an inert substance.
-In the reaction HCl + H2O -> H3O^+1 + Cl^-1 the water acts as
----
-A
-(a) water.
-(b) an acid salt.
-(c) a basic salt.
-(d) a precipitate.
-(e) a soluble salt.
-According to the Arrhenius definition, the reaction of an acid with a base always produces
----
-E
-(a) electron acceptor
-(b) acid anhydride
-(c) proton donor
-(d) acid
-(e) base
-What role does the water play in this reaction? HCl(g) + H2O(l) ?? H3O^+1(aq) + Cl^-1(aq)
----
-C
-(a) H3O^+1(aq)
-(b) H2O(l)
-(c) H2PO4^-1(aq)
-(d) OH^-1(aq)
-null
-What is the conjugate base of the acid H3PO4? H3PO4(aq) + H2O(l) -> H3O^+1(aq) + H2PO4^-1(aq)
----
-B
-(a) NH4^+1 by NH3
-(b) NH3 by H2O
-(c) NH2^-1 by NH3
-(d) OH^-1 by H2O
-null
-As NH3(g) is dissolved in water, ionization occurs. NH3(g) + H2O -> NH4^+1(aq) + OH^-1(aq) A proton is donated to
----
-A
-(a) a proton donor.
-(b) a proton acceptor.
-(c) a reducing agent.
-(d) an oxidizing agent.
-null
-In the reaction NH3(aq) + H2PO4^-1(aq) ->  NH4^+1(aq) + HPO4^-2(aq) the dihydrogen phosphate ion, H2PO4^-1(aq), acts as
----
-B
-(a) donates a proton
-(b) accepts a proton
-(c) donates an electron pair
-(d) accepts an electron pair.
-null
-According to the BrnstedFLowry theory, a base is any substance that
----
-A
-(a) H2O(l) and HC2H3O2(aq)
-(b) C2H3O2^-1(aq) and H2O(l)
-(c) C2H3O2^-1(aq) and HC2H3O2(aq)
-(d) C2H3O2^-1(aq) and OHF(aq)
-null
-In this equation, which two substances act as BrnstedFLowry acids?
-C2H3O2^-1(aq) + H2O(l) -> HC2H3O2(aq) + OH^-1(aq)
----
-A
-(a) is a proton acceptor.
-(b) is a proton donor.
-(c) accepts an electron pair.
-(d) turns red litmus blue.
-null
-Consider the ionization of acetic acid:
-CH3COOH(aq) + H2O(l) -> H3O^+1(aq) + CH3COO^-1(aq)
-Water is a base because it
----
-C
-(a) taste sour	
-(b) taste bitter	
-(c) are electrolytes
-(d) turn red litmus blue.
-null
-Solutions of strong acids and strong bases are alike in that they both
----
-B
-(a) NH4^+1, H2O
-(b) NH4^+1, NH3
-(c) H2O, NH3
-(d) OH^F1, NH3
-null
-In the reaction:
-NH3(aq) + H2O(l) -> NH4^+1(aq) + OH^-1(aq)
-which is a conjugate acidFbase pair?
----
-B
-(a) N2H3
-(b) N2H5^+1
-(c) 2NH2
-(d) N2 + 2H2
-null
-When hydrazine, N2H4, acts as a BrnstedFLowry base, what is its conjugate acid?
----
-A
-(a) HSO4^-1 + H2O -> H3O^+1 + SO4^-2
-(b) HSO4^-1 + H2O -> OH^-1 + H2SO4
-(c) HSO4^-1 + H2O -> H2O2 + HSO3^-1
-(d) HSO4^-1 + H2O -> HO2^-1 + H2SO3
-null
-Which equation represents the ionization of HSO4^-1 in water?
----
-A
-(a) HOH
-(b) NaOH
-(c) H2SO4
-(d) Ca(OH)2
-null
-Which compound acts either as an acid or a base in solution?
----
-C
-(a) H2O(l) and OH^-1(aq)
-(b) H2O(l) and HPO4^-2(aq)
-(c) H2O(l) and H2PO4^-1(aq)
-(d) HPO4^-2(aq) and OH^-1(aq)
-null
-According to the BrnstedFLowry definition of acids and bases, which are the acids in this 
-reaction?
-H2O(l) + HPO4^-2(aq) -> H2PO4^-1(aq) + OH^-1(aq)
+What temperature on the Absolute scale corresponds to -35C?
 ---
 D
-(a) catalysis.
-(b) hydrolysis.
-(c) electrolysis.
-(d) neutralization.
-(e) hydrogenation.
-Enough acid is added to a solution having pH 13 to change the pH to 7. This is an example of
----
-B
-(a) l
-(b) 2
-(c) 3
-(d) 4
-(e) 0.5
-Assuming complete ionization, the pH of a 0.01 M HCl solution would be
----
-D
-(a) 30 M
-(b) 3 M
-(c) 0.3 M
-(d) 1. x 10^-3 M
-(e) 1. x 10^-11 M
-What is the hydrogen ion, H+(aq), concentration in a solution having a pH of 3?
----
-B
-(a) 1 x 10^-2 mol/LF1
-(b) 2 x 10^-1 mol/LF1
-(c) 2 x 10^-2 mol/LF1
-(d) 2 x 10^-12 mol/LF1
-null
-What is the hydrogen ion concentration, [H+(aq)], in a 0.2 M aqueous solution of nitric 
-acid,
-NO3?
----
-D
-(a) 10^-4
-(b) 0.3
-(c) 3
-(d) 4
-null
-What is the pH of a 0.0001 M solution of HCl?
----
-C
-(a) l2 M
-(b) 2 M
-(c) 10^-2 M
-(d) 10^+2 M
-null
-What is the hydrogenFion concentration, [H^+1], in an aqueous solution of pH 2?
----
-C
-(a) 2 M	
-(b) 2 x 10^-1 M
-(c) 1 x 10^-2 M
-(d) 2 x 10^-2 M
-null
-What is the hydrogen ion concentration, [H+(aq)], in a
-0.01 M HCl solution?
----
-A
-(a) The pH decreases and may go below 7
-(b) The pH increases and may go above 7
-(c) The pH decreases to 7 and stops
-(d) The pH increases to 7 and stops
-null
-How does the pH of the mixture change as hydrochloric acid, HCl, is slowly added to a 
-solution of sodium hydroxide, NaOH?
----
-D
-(a) an increase from 7 to 8
-(b) an increase from 3 to 8
-(c) a decrease from 7 to 6
-(d) a decrease from 9 to 5
-null
-When an acid is added to a solution of a base, what change in pH of the solution could be 
-observed?
----
-A
-(a) 0.1 M HCl	
-(b) 0.1 M NH3
-(c) 0.1 M NaOH
-(d) 0.1 M HC2H3O2
-null
-Which solution has the lowest pH?
----
-B
-(a) l
-(b) 2
-(c) 7
-(d) 12
-null
-Nitric acid ionizes completely in water. What is the pH of a 0.01 M HNO3 solution?
----
-A
-(a) 0.01 M HCl
-(b) 0.10 M KOH
-(c) 0.10 M Na2CO3
-(d) 0.10 M NH4Cl
-null
-Which solution has the highest hydrogen ion concentration, [H3O+]?
----
-C
-(a) l
-(b) 2
-(c) 3
-(d) 4
-null
-What is the pH of 0.001 M HCl, assuming complete ionization?
----
-D
-(a) 5 x 10^2 M
-(b) 1 x 10^5 M
-(c) 5 x 10^-1 M
-(d) 1 x 10^-5 M
-null
-What is the hydronium ion concentration, [H3O^+1], of a solution in which the pH is 5?
----
-C
-(a)1.0
-(b) 0.0
-(c) 6.5
-(d) 8.0
-null
-Which pH is nearest to neutral?
----
-B
-(a) The concentration of OHF(aq) decreases.
-(b) The concentration of H+(aq) decreases.
-(c) The solution becomes acidic.
-(d) The pH will drop below 7.
-null
-When ammonia, NH3, is added to water, this reaction occurs.
-NH3(g) + H2O(l) ? NH4^+1(aq) + OH^F1(aq)
-What change occurs in the solution?
----
-C
-(a) 1 x 10^-3 M
-(b) 1 x 10^-9 M
-(c) 1 x 10^-11 M
-(d) 1 x 10^-14 M
-null
-What is the hydrogen ion concentration, [H^+1], of a 0.001 M solution of sodium hydroxide, 
-NaOH?
----
-B
-(a) 0.125 M
-(b) 0.500 M
-(c) 2.00 M
-(d) 8.00 M
-null
-What is the hydrogen ion concentration, [H^+1], of a 0.500 M aqueous solution of 
-hydrochloric acid, HCl?
----
-A
-(a) pH 5
-(b) pH 7
-(c) pH 9
-(d) pH 11
-(e) pH 14
-Which pH value signifies the highest hydrogen ion concentration?
----
-A
-(a) acetic acid.
-(b) formic acid.
-(c) lactic acid.
-(d) citric acid.
-(e) butyric acid.
-The acid found in vinegar is
----
-D
-(a) 1 x 10^1 M
-(b) 4 x 10^0 M
-(c) 1 x 10^F4 M
-(d) 1 x 10^F10 M
-(e) 1 x 10^F14 M
-What is the hydroxide ion concentration, [OH^-1(aq)] of a solution having a pH of 4?
----
-D
-(a) 0.01
-(b) 2
-(c) 10
-(d) 12
-null
-What is the pH of a 0.01 M potassium hydroxide solution, KOH(aq)?
----
-A
-(a) 12
-(b) 2
-(c) 10^F2
-(d) 10^F12
-null
-What is the pH of a 0.01 M solution of sodium hydroxide, NaOH?
----
-B
-(a) 3 x 10^-14 M
-(b) 1 x 10^-11 M
-(c) 3 x 10^-3 M
-(d) 1 x 10^3 M
-null
-What is the [H3O^+1] of a 0.001 M solution of sodium hydroxide, NaOH?
----
-D
-(a) 1
-(b) 7
+(a) 4.0
+(b) 8.0
 (c) 12
-(d) 13
+(d) 16
 null
-What is the pH of a solution that has a hydroxide ion concentration, [OH^-1], of 0.10 M?
----
-B
-(a) 14
-(b) 11
-(c) 3
-(d) 4
-null
-A 0.001 M LiOH solution has a pH of
+If 8.0 L of a gas at 290 K is increased in temperature to 580 K at constant pressure, the new volume will be
 ---
 C
-(a) 1 x 10^-5 M
-(b) 1 x 10^-7 M
-(c) 1 x 10^-9 M
-(d) 1 x 10^-14 M
-null
-What is the hydroxide ion concentration, [OH^-1], in an aqueous solution in which the 
-hydronium ion
-oncentration, [H3O^+1] , is 1 ? 10^-5 M?
+(a) 130
+(b) 240
+(c) 282
+(d) 370
+(e) 520
+A certain volume of gas has its temperature lowered at constant pressure from 323 K to 298 K. If the final volume is 260 mL, then the initial volume, in mL, was
+---
+D
+(a) 200
+(b) 300
+(c) 400
+(d) 600
+(e) 800
+The temperature of a gas is increased from 300 K to 450 K at constant pressure. If the initial volume is 400 mL, the final volume in mL will be
 ---
 B
-(a) 10^11 M
-(b) 10^-11 M
-(c) 10^3 M
-(d) 10^-3 M
+(a) 55 mL
+(b) 181 mL
+(c) 550 mL
+(d) 1000 mL
 null
-What is the hydroxide ion, OH^-1(aq), concentration in a solution of 0.001 M hydrogen ion, 
-H^+1(aq),
-oncentration?
+If 100 mL of an ideal gas initially at 27C is heated to 270C at constant pressure, the new volume will be
 ---
 C
-(a) 3
-(b) 7
-(c) 11
-(d) 14
+(a) 7.66 x 101 kPa
+(b) 1.01 x 102 kPa
+(c) 1.33 x 102 kPa
+(d) 1.01 x 103 kPa
 null
-What is the pH of a 0.001 M solution of KOH?
----
-B
-(a) HCl + H2O -> 3H^+1 + ClO^-1
-(b) HCl + H2O -> H3O^+1 + Cl^-1
-(c) HCl + H2O -> 2H+ + OHF + O^-2 + Cl^-1
-(d) HCl + H2O -> 3H+ + ClF + O2F
-(e) HCl + H2O -> H3+ + ClOF
-Which equation most nearly represents the reaction between hydrogen chloride and water?
+A gas in a rigid container exerts a pressure of 101 kPa at 10C. The temperature is increased to 100C. The new pressure will be
 ---
 A
-(a) a salt.
-(b) an oxide.
-(c) a hydride.
-(d) an anhydride.
+(a) 5.00 L
+(b) 2.00 L
+(c) 8.00 L
+(d) 20.0 L
 null
-According to the Arrhenius definition, one product formed when an acid reacts with a base is
+At a constant pressure, 10.0 L of a gas are cooled from 546 K to 273 K. The final volume will be
 ---
 B
-(a) HNO3
-(b) Mg(OH)2
-(c) CH3OH
-(d) NaHSO4
+(a) (100 x 290) / 500 mL
+(b) (100 x 500) / 290 mL
+(c) 100 x 500 x 290 mL
+(d) 100 / (500 x 290) mL
 null
-Which compound can be used to neutralize sulfuric acid, H2SO4?
+A gas occupies 100 mL at 290 K. What will be its volume at 500 K if the pressure remains constant?
+---
+C
+(a) 1.00 L
+(b) 2.36 L
+(c) 3.82 L
+(d) 9.00 L
+null
+At a constant pressure, 3.00 L of a gas are heated from 300 K to 382 K. The final volume of the gas is
+---
+C
+(a) 19C
+(b) 33C
+(c) 306C
+(d) 276C
+(e) 3.5C
+The temperature of air in a tire is 18C at the outset of a trip. Its initial pressure including atmospheric pressure is 304 kPa. After the trip, the pressure is measured and is found to be 320 kPa. What is the the temperature of the tire at the end of the trip assuming the volume to be constant?
+---
+C
+(a) 267 K
+(b) 390 K
+(c) 600 K
+(d) 4000 K
+null
+At a constant pressure, 20 L of a gas at 400 K are expanded to 30 L. The final temperature of the gas must be
 ---
 B
-(a) OH^-1
-(b) H2O
+(a) V2 = (50 x 20) / 170 mL
+(b) V2 = 50 x [(170 + 273) / (20 + 273)] mL
+(c) V2 = 50 x [(170 F 273) / (20 F 273)] mL
+(d) V2 = 50 x [(20 + 273) / (170 + 273)] mL
+(e) V2 = 50 x (170 / 20) mL
+When 50 mL of air are heated from 20C to 170C at constant pressure, what is the new volume?
+---
+C
+(a) 760 mm of Hg
+(b) 101.3 kPa
+(c) 15 Torr
+(d) 1.000 atm
+null
+Which of the following is not equal to standard pressure?
+---
+B
+(a) the mass of air per unit area
+(b) usually measured in kilopascals
+(c) the same at all elevation(d) constant at a given elevation
+null
+(e) usually measured using a syringe
+Atmospheric pressure is
+---
+C
+(a) increases to 3/2 the initial volume
+(b) decreases to 2/3 the initial volume
+(c) decreases to 3/8 the initial volume
+(d) increases to 8/3 the initial volume
+(e) increases to 11/4  the initial volume
+If the pressure on a fixed mass of a gas is doubled, and the absolute temperature is reduced to 3/4 of the initial value, what happens to the volume?
+---
+C
+(a) 80.0 mL
+(b) 40.0 mL
+(c) 20.0 mL
+(d) 10.0 mL
+null
+A quantity of gas collected at 298 K and 101 kPa occupies a volume of 20 mL. If the pressure on the gas is doubled and its temperature is raised to 596 K, the volume occupied by the gas will be
+---
+B
+(a) 1/6 L
+(b) 2/3 L
+(c) 3/2 L
+(d) 6 L
+null
+When the pressure exerted on 1 L of an gas in tripled, and the absolute temperature is doubled, the volume becomes
+---
+D
+(a) 2 x (80 / 50) x (300 / 500) L
+(b) 2 x (50 / 80) x (500 / 300) L
+(c) 2 x (50 / 80) x (300 / 500) L
+(d) 2 x (80 / 50) x (500 / 300) L
+null
+Two litres of H2 are collected at a pressure of 80 kPa and a temperature of 300 K. The volume of this quantity of H2 gas, measured at 500 K and 50 kPa pressure, is given by the expression
+---
+B
+(a) 5.00 x (103 / 101) x (300 / 273) L
+(b) 5.00 x (103 / 101) x (273 / 300) L
+(c) 5.00 x (101 / 103) x (300 / 273) L
+(d) 5.00 x (101 / 103) x (273 / 300) L
+null
+At 300 K and 103 kPa, a sample of O2 occupies 5.00 L. The volume of the oxygen, at STP is
+---
+C
+(a) (20 x 100 x 350) / (30 x 300)
+(b) (20 x 100 x 80) / (300 x 250)
+(c) (20 x 100 x 350) / (80 x 300)
+(d) (20 x 80 x 300) / (100 x 350)
+(e) (20 x 80 x 350) / (100 x 300)
+The pressure and temperature of a gas are changed from 100 kPa and 300 K to 80 kPa and 350 K. If the initial volume was 20 L, then the final volume will be
+---
+E
+(a) 3
+(b) 9
+(c) 27
+(d) 81
+(e) 243
+What new volume in L would 27 L of a gas occupy if the original temperature in Kelvin were tripled and the pressure reduced to one third?
+---
+C
+(a) molecules decompose
+(b) molecules expand
+(c) large spaces open up between molecules
+(d) molecules move faster
+(e) the number of molecules increases
+During boiling of a pure liquid, which of the following occurs?
+---
+B
+(a) 2, 4, 5, 6, 7
+(b) 2, 4, 7
+(c) 1, 3, 5, 6
+(d) 1, 3, 5, 7
+(e) 2, 4, 6
+Which properties are true of ALL liquids?
+(1) significantly compressible
+(2) relatively incompressible
+(3) rigid
+(4) fluid
+(5) become more dense when frozen
+(6) average speed of molecules is greater than for solids at the same temperature
+(7) molecules are free to move around
+(8) molecules are in contact
+---
+E
+(a) 1 and 3
+(b) 1 and 4
+(c) 3 and 4
+(d) 2 and 3
+(e) 2 and 4
+The pressure of a gas is directly proportional to which of the following?
+(1) volume
+(2) mass
+(3) molar mass
+(4) absolute temperature
+---
+D
+(a) take up space
+(b) are in constant motion
+(c) collide with loss of energy
+(d) are relatively far apart
+null
+The volume of a confined gas can be reduced, at constant temperature, by increasing the pressure on the gas. The change in volume of the gas may best be explained by the fact that the molecules
+---
+B
+(a) A liquid is much more compressible than its vapor
+(b) Molecules become separated to relatively large distances during evaporation
+(c) The density of a liquid is less than that of its vapor
+(d) Molecules of vapor have a different chemical composition than those of the liquid
+null
+Which of the following statements is TRUE?
+---
+C
+(a) the space between molecules
+(b) the density of the gas
+(c) the motion of the gas molecules
+(d) the identity of the gas
+null
+The property of gases which accounts for their pressure is
+---
+B
+(a) the pressure is very high and the temperature is very low
+(b) the pressure is very low and the temperature is very high
+(c) the pressure is very low and the temperature is very low
+(d) the pressure is very high and the temperature is very high
+null
+Real gases behave most like ideal gases when
+---
+D
+(a) move farther apart
+(b) collide more frequently with the walls of the jar
+(c) increase their vibrational motion
+(d) move more slowly
+null
+If a sealed one liter jar of gas is cooled, the molecules
+---
+C
+(a) density
+(b) mass
+(c) pressure
+(d) diffusion
+null
+The effect of gases which is due to constant bombardment of the walls of the container by moving molecules is its
+---
+C
+(a) 1 and 3
+(b) 2 and 3
+(c) 1 and 4
+(d) 2 and 4
+null
+Which of the following statements are correct?
+(1) the volume of a given mass of gas varies directly as its absolute temperature when the pressure remains constant
+(2) when a gas is cooled, its molecules move faster
+(3) at constant volume, a decrease in pressure may be due to an increase in the number of molecules
+(4) the molecules of a gas are in continuous motion
+---
+D
+(a) rotation only
+(b) vibration and limited rotation
+(c) translation only
+(d) vibration, rotation and translation
+null
+Molecules in the liquid state undergo
+---
+B
+(a) remains constant
+(b) steadily increases
+(c) steadily decreases
+(d) increases at first then suddenly drops as the gas changes to a liquid
+null
+If the pressure exerted by a certain number of gas molecules remains constant while the temperature increases, the volume occupied by the gas
+---
+A
+(a) particles are in constant motion
+(b) particles lose energy with an increase in velocity
+(c) particles travel faster as the temperature decreases
+(d) particles lose energy when the temperature increases
+null
+Which one of the following is a basic assumption about the Kinetic Molecular Theory?
+---
+B
+(a) move faster
+(b) move more slowly
+(c) occupy a smaller volume
+(d) have more collisions per unit time
+null
+If a gas is cooled in a closed container, its molecules
+---
+D
+(a) molecules move more slowly
+(b) average kinetic energy is decreased
+(c) number of collisions decrease
+(d) pressure increases
+null
+For any confined gas, when the temperature is increased and the volume is decreased, at the same time the
+---
+B
+(a) 323 / 272
+(b) 323 / 298
+(c) 298 / 323
+(d) 298 / 273
+null
+A sample of gas in an open container is heated from 298 K to 323 K. The average kinetic energy of the molecules of the gas is increased by a factor of
+---
+A
+(a) the molecules of the gas move faster
+(b) the volume of molecules increases
+(c) the mass of the gas decreases
+(d) the mass of the gas increases
+null
+At constant volume, the pressure of a gas in a closed container increases with increasing temperature because
+---
+B
+(a) the compressibility of gases
+(b) the fact that gases fill their container
+(c) the low density of gases
+(d) the transparency of gases
+null
+The random motion of molecules helps to explain
+---
+C
+(a) remain steady
+(b) increase
+(c) decrease
+(d) will approach a maximum value
+null
+If the pressure of a gas is constant and the temperature increased, the density will
+---
+B
+(a) number of molecules present
+(b) molar mass of the gas
+(c) temperature
+(d) pressure
+null
+Other factors being constant, the volume of an ideal gas is NOT affected by changes in the
+---
+B
+(a) the same mass
+(b) the same average kinetic energy
+(c) the same number of electrons
+(d) the same velocity
+null
+A gaseous solution contains oxygen and nitrogen. Relative to the nitrogen molecules, the oxygen molecules have, on the average,
+---
+D
+(a) remains constant
+(b) increases
+(c) cannot be predicted
+(d) decreases
+null
+If the pressure exerted on the elastic container of gas remains constant while the temperature decreases, when the volume occupied by the gas
+---
+B
+(a) the number of collisions decreases
+(b) the number of collisions increases
+(c) the average kinetic energy of the particles increases
+(d) the average kinetic energy of the particles decreases
+null
+If the temperature of a fixed mass of gas is kept constant while the volume is decreased
+---
+B
+(a) 1, 3
+(b) 1, 4
+(c) 2, 3
+(d) 2, 4
+(e) none
+Consider a gas in an airtight box. Under which circumstances would the number of gas molecules colliding each second with one inside wall of the box be increased?
+1 - increase the amount of gas in the box
+2 - decrease the amount of gas in the box
+3 - increase the volume of the box
+4 - decrease the volume of the box.
+---
+E
+(a) 1, 2, 3
+(b) 1, 3, 5
+(c) 1, 4, 5
+(d) 2, 3, 4
+(e) 2, 4, 5
+Select ALL statements that are CORRECT according to the Kinetic Molecular Theory of gases.
+1 - molecules are closer together in gases than in liquids
+2 - molecules are in constant motion
+3 - molecules lose energy when they collide with each other
+4 - the kinetic energy of molecules is proportional to the absolute temperature
+5 - gas molecules move in straight lines between collisions
+---
+D
+(a) gases are composed of tiny separate particles
+(b) the particles are relatively far apart in gases
+(c) the particles are in constant motion and moving is straight lines
+(d) in a given gas the molecules always move at the same speed independent of temperature
+(e) particles collide with the walls of the container, thereby exerting force
+Which of the following statements relating to basic assumptions of the Kinetic Molecular Theory is FALSE?
+---
+E
+(a) molecules are closer together in gases than in liquids
+(b) molecules travel with constant speed
+(c) molecules colliding with the walls cause pressure
+(d) the collisions between molecules result in loss of energy
+(e) the kinetic energy of the molecules is proportional to the absolute temperature
+Which of the following statements is CORRECT?
+---
+A
+(a) Kinetic Molecular Theory
+(b) Conservation of Matter
+(c) Dalton's Atomic Theory
+(d) Avagadro's Hypothesis
+(e) Law of Constant Composition
+Which theory contains postulates which best explain the diffusion of gases?
+---
+E
+(a) kinetic energy of the molecules exceeds the attractive force between them
+(b) both volume and shape are fixed at a given temperature
+(c) inter-molecular distances are relativey large
+(d) the volume changes insignificantly with temperature
+(e) diffusion of "X" into "Y" is faster in a liquid than in a solid state
+Select the statement which best describes the liquid state.
+---
+B
+(a) 30 m
+(b) 12 m
+(c) 72 m
+(d) 20 m
+(e) 45 m
+Five gases, under the same conditions of temperature and pressure, were observed diffusing through a glass tube. The distance covered in a fixed time is recorded below. Which gas has the molecules with the largest mass?
+---
+A
+(a) 1, 2
+(b) 1, 4
+(c) 2, 3
+(d) 3, 4
+null
+Like a gas, a liquid has no definite shape. Unlike a gas it has a definite volume. These facts can be explained since the molecules of a liquid
+1 - are very close together
+2 - attract each other
+3 - are not very close together
+4 - do not attract each other
+---
+D
+(a) if no water vapor escapes than no energy is required to vaporize the water
+(b) the energy need to melt 1 g of ice is the same as that needed to vaporize 10 g of water
+(c) the same energy is required to vaporize 10 g of alcohol or of water
+(d) the energy required to vaporize water depends upon the mass of water vaporized
+null
+Select the correct statement concerning the energy involved in a change of state.
+---
+A
+(a) the kinetic energy of gas molecules decreases as the temperature increases
+(b) the gas molecules are far apart
+(c) the gas molecules are in constant, rapid, motion
+(d) gas molecules can collide with each other
+null
+Select the FALSE statement concerning the Kinetic Molecular Theory. It assumes
+---
+C
+(a) O2
+(b) CO2
 (c) H2
-(d) Br2
+(d) Cl2
 null
-One product of the reaction between KOH and HBr is
+Which of the following gas molecules would have the highest speed at room temperature?
 ---
 A
-(a) LiOH + HBr -> LiBr + H2O
-(b) 2HCl + Zn -> ZnCl2 + H2
-(c) H2CO3 -> H2O + CO2
-(d) 2NaHCO3 -> Na2CO3 + H2O + CO2
+(a) 3, 1, 4, 2
+(b) 1, 4, 3,
+(c) 2, 4, 1, 3
+(d) 4, 1, 2, 3
 null
-Which equation represents a neutralization reaction?
----
-D
-(a) ionization
-(b) hydrolysis
-(c) dissociation
-(d) neutralization
-null
-What type of reaction is represented by this equation? H2SO4 + 2NaOH ? Na2SO4 + 2HOH
+Arrange the following gases in order of INCREASING speed assuming that they are all at the same
+temperature.
+1 - CO2
+2 - H2O
+3 - Cl2
+4 - O2
 ---
 A
-(a) water
-(b) an acid salt	
-(c) a precipitate
-(d) a soluble salt
-(e) an insoluble salt
-Which of these is always formed when an acid neutralizes a base?
----
-C
-(a) contains the largest number of H^+1 ions per molecule
-(b) can be made the most concentrated
-(c) yields the highest concentration of H^+1 ions for a given concentration of acid
-(d) has the strongest conjugate base
+(a) they have the same average kinetic energies
+(b) the hydrogen molecules have double the energy of the helium molecules
+(c) the helium molecules have double the energy of the hydrogen molecules
+(d) the hydrogen molecules have four times the kinetic energy of the helium molecules
 null
-The strongest acid is a group will be that which
+Hydrogen gas and helium gas are mixed together in a sealed container. Select the CORRECT statement concerning the kinetic energies of the molecules of the two gases.
+---
+B
+(a) i and ii
+(b) i and iv
+(c) ii and iii
+(d) ii and iv
+null
+Which of the following statements are CORRECT?
+(1) the relative atomic mass of an element is numerically equal to the mass of Avagadro's Number of Atoms of the element
+(2) the relative molecular mass is always equal to twice the relative atomic mass
+(3) the density of a gas has no relationship to its molecular mass
+(4) "22.4 L" is called the molar volume
+---
+B
+(a) 1.70 L
+(b) 5.89 L
+(c) 6.10 L
+(d) 11.8 L
+null
+The volume, at STP, of 10.0 g of F2  is approximately
+---
+B
+(a) 0.224 L
+(b) 2.24 L
+(c) 17.0 L
+(d) 22.4 L
+null
+At, STP, 1.70 g of NH3 will occupy approximately
 ---
 A
-(a) HS^-1
-(b) S^-2
-(c) NH4^+1
-(d) Al^+3
+(a) 13.0 g
+(b) 26.0 g
+(c) 52.0 g
+(d) 4.00 g
 null
-Which of the following can function as both an acid and a base according to the Brnsted-Lowry definition?
----
-C
-(a) HCO3^-1
-(b) H2PO4^-1
-(c) NH4^+1
-(d) H2O
-(e) HS^-1
-Each of the following can act as both a Brnsted acid and a Brnsted base EXCEPT
----
-D
-(a) H2O
-(b) NH3
-(c) S^-2
-(d) NH4^+1
-(e) HCO3^-1
-All of the following species can function as Brnsted-Lowry bases in solution EXCEPT
----
-D
-(a) strongly basic
-(b) weakly basic
-(c) strongly acid
-(d) weakly acidic
-(e) neutral
-If a solution has a pH of 6, how is it best described?
----
-C
-(a) It is an ionic compound which contains hydrogen atoms.
-(b) It produces an aqueous solution having a pH greater than 7.
-(c) It forms hydronium ions in aqueous solution.
-(d) It is a neutral molecule.
-(e) It is an electron pair donor.
-Which statement is true of an Arrhenius acid?
----
-C
-(a) 0.015
-(b) 0.085
-(c) 1.82
-(d) 2.21
-(e) 12.18
-What is the pH of a 0.015 mol/L aqueous solution of HCl?
----
-B
-(a) It is always 1.0 x 10^-7 at any temperature.
-(b) It is always equal to the [OH^-1] at any temperature.
-(c) It decreases as the temperature increases.
-(d) It is zero regardless of the temperature.
-null
-Which statement is true of the hydronium ion concentration in PURE water?
----
-D
-(a) Acidity is a property of all hydrogen compounds.
-(b) The acidity of two solutions of different acids will be identical if they have the same concentration.
-(c) The acidity of two solutions of different acids will be identical if they have the same strength.
-(d) A solution with a lower pH has a greater acidity.
-null
-Which statement is true concerning acidity?
----
-B
-(a) NH3
-(b) HSO4^-1
-(c) SO4^-2
-(d) H2O
-(e) K^+1
-When a solution of potassium hydrogen sulfate reacts with ammonia the Bronsted acid is which of the following?
----
-D
-(a) HSO4^-1 base and SO4^-2 acid
-(b) HSO4^-1 acid and HPO4^-2base
-(c) HPO4^-2 acid and H2PO4^-1 base
-(d) HSO4^-1acid and SO4^-2base
-(e) H2PO4^-1base and HSO4^-1acid
-For the equilibrium, HSO4^-1 + HPO4^-2 -> SO4^-2 + H2PO4^-1, which of the following is a conjugate pair?
----
-C
-(a) an electron
-(b) a pair of electrons
-(c) a hydronium ion
-(d) a water molecule
-(e) a hydrogen ion
-What is transferred between a Bronsted acid and a Bronsted base?
----
-B
-(a) 10^-7
-(b) < 7
-(c) > 7
-(d) 7
-null
-In acidic solutions the pH is
----
-D
-(a) is an ionic compound which contains hydrogen atoms
-(b) produces an aqueous solutions which has a pH > 7
-(c) is always a neutral molecule
-(d) releases hydrogen ions in aqueous solution.
-null
-An Arrhenius acid
+What is the mass of 11.2 L of C2H2 at STP?
 ---
 A
-(a) are good conductors of electricity
-(b) turns litmus red
-(c) have a pH of 7
-(d) react with copper to produce hydrogen
+(a) 3.17 g
+(b) 22.4 g
+(c) 35.5 g
+(d) 71.0 g
 null
-Aqueous solutions of strong acids and bases
----
-C
-(a) a concentrated strong acid
-(b) a dilute strong acid
-(c) a concentrated weak acid
-(d) a dilute weak acid
-null
-A 12 M solution of HC2H3O2 (acetic acid) is best described as
----
-D
-(a) 10^-13 M
-(b) 10^-12 M
-(c) 10^-2 M
-(d) 10^-1 M
-null
-HI is a very strong acid. In an aqueous solution of 0.20 M HI, the H3O^+1 concentration is approximately
----
-B
-(a) [H3O^+1] increases and pH decreases
-(b) [H3O^+1] decreases and pH increases
-(c) [H3O^+1] and pH both increase
-(d) [H3O^+1] and pH both decrease
-null
-As the concentration of acid in a solution is decreases, the
----
-B
-(a) 10^4 M
-(b) 10^-4 M
-(c) 10^-10 M
-(d) 4 M
-null
-What is the concentration of H3O^+1 in a solution whose pH is 4?
----
-C
-(a) 1
-(b) 2
-(c) 3
-(d) 4
-null
-The pH of a 0.001 M solution of HCl is
----
-C
-(a) 0.015
-(b) 0.085
-(c) 1.82
-(d) 2.18
-null
-What is the pH of a 0.015 M aqueous solution of HCl?
----
-D
-(a) a hydroxide ion
-(b) a proton donor
-(c) an electron pair acceptor
-(d) a proton acceptor
-null
-A Brnsted-Lowry base is defined as
+What is the mass of 1 L of Cl2 measured at STP?
 ---
 A
-(a) H2O(l) + NH3(g) -> OH^-1(aq) + NH4^+1(aq)
-(b) H2O(l) -> H2(g) + 1/2 O2(g)
-(c) H2O(l) + HCl -> H3O^+1(aq) + Cl^-1(aq)
-(d) H2O(l) + C(s) -> CO2(g) + H2(g)
+(a) 0.448 L
+(b) 0.896 L
+(c) 1.28 L
+(d) 2.24 L
 null
-Water can act as both an acid and a base. Which of the following shows it acting as an acid?
----
-B
-(a) NH3
-(b) HCO3^-1
-(c) CO2
-(d) H2O
-null
-When a solution of sodium hydrogen carbonate (NaHCO3) reacts with ammonia (NH3), the Brnsted-Lowry acid is
+At STP, the volume occupied by 1.28 g of SO2  is
 ---
 A
-(a) Cl^-1
-(b) NaOH
-(c) Ca(OH)2
-(d) Ba^+2
+(a) 1.0 g
+(b) 2.0 g
+(c) 16 g
+(d) 4.0 g
 null
-Which of the following is a Brnsted-Lowry base but not an Arrhenius base?
+The mass of 5.6 L of helium at STP is
 ---
 D
-(a) which contains hydrogen or hydrogen ions
-(b) whose aqueous solution has a pH greater than 7
-(c) which can react with hydroxide ions
-(d) which ionizes in solution to produce protons
+(a) 1.25
+(b) 2 x 1.25
+(c) 12 x 1.25
+(d) 22.4 x 1.25
 null
-According to both the Arrhenius and Brnsted-Lowry definitions, an acid is a compound
----
-C
-(a) 1.0
-(b) 10
-(c) 3.0
-(d) 14
-null
-The hydrogen ion concentration of a solution is found to be 0.0010 M. The pH is
+At STP, 1.0 L of a gas has a mass of 1.25 g. The molecular mass of this gas is
 ---
 D
-(a) 10^-10
-(b) 10^-4
-(c) 10
-(d) 4.0
+(a) 5.60 x 7.00
+(b) 7.00 x 22.
+(c) (5.6 x 7.00) / 22.4
+(d) (22.4 x 7.00) / 5.6
 null
-The pH of 0.00010 M nitric acid solution is
----
-B
-(a) HPO4^=(base) and SO4^=(acid)
-(b) HPO4^=(base) and H2PO4^-1(acid)
-(c) HSO4^-1(acid) and HPO4^=(base)
-(d) HPO4^=(acid) and H2PO4^-1(base)
-null
-For the system; HSO4^-1 + HPO4^= -> SO4^= + H2PO4^-1 a Brnsted-Lowry conjugate acid-base pair is
----
-B
-(a) > hydroxide
-(b) < 10^-7
-(c) 10^-7
-(d) > 10^-7
-null
-In basic solutions the hydrogen ion concentration is
+A 7.00 g sample of an ideal gas occupies 5.60 L at STP. The relative molecular mass of this gas is
 ---
 C
-(a) 8 x 10^-14
-(b) 1 x 10^-13
-(c) 1 x 10^-7
-(d) 1 x 10^-1
-null
-If 150 mL of 0.20 M NaOH is added to 50 mL of H2SO4  and assuming 100% dissociation of each as well as complete neutralization, the final concentration of H^+1 is
----
-B
-(a) 1
-(b) 2
-(c) 3
-(d) 4
-null
-If 11.4 mL of 0.70 M NaOH were used to titrate 0.50 g of a solid acid with molar mass 126 g, what is the number of moles of hydrogen ion per mole of the acid?
----
-B
-(a) 50.0 mL
-(b) 100 mL
-(c) 200 mL
-(d) 500 mL
-null
-What volume of 4.00 x 10^-2 M HCl is needed to completely react with 200 mL of 1.00 x 10^-2 M OH?
----
-A
-(a) 6.25 mL
-(b) 12.5 mL
-(c) 25.0 mL
-(d) 50.0 mL
-null
-What volume of 0.200 M Ca(OH)2  is required to neutralize 25.0 mL of 0.100 M HCl?
----
-C
-(a) 30 mL
-(b) 40 mL
-(c) 50 mL
-(d) 60 mL
-null
-What volume of 0.16 M HCl is required to completely neutralize 40 mL of 0.20 M NaOH?
----
-C
-(a) 50.0 mL
-(b) 100 mL
-(c) 150 mL
-(d) 300 mL
-null
-What volume of 0.0400 M H2SO4 is required to neutralize 200 mL of 0.0200M Al(OH)3 ?
----
-B
-(a) 0.020 M
-(b) 0.029 M
-(c) 0.035 M
-(d) 0.058 M
-null
-If 35 mL of NaOH are required to neutralize 10 mL of 0.10 M HCl for complete neutralization, the concentration of the base must be
----
-B
-(a) 0.050 M
-(b) 0.080 M
-(c) 0.50 M
-(d) 0.80 M
-null
-10 mL of 0.20 M HCl completely neutralizes 25 mL of an NaOH solution. The concentration of the NaOH solution is
----
-B
-(a) 4 x 10^-4
-(b) 8 x 10^-4
-(c) 2 x 10^-3
-(d) 4 x 10^-2
-null
-How many moles of HCl are required to completely neutralize 200 mL of 0.002 M Ca(OH)2 ?
----
-D
-(a) 0.90 M
-(b) 1.1 M
-(c) 1.4 M
-(d) 1.8 M
-null
-If 20 mL of HCl are required to completely neutralize 45 mL of 0.80 M NaOH, then the concentration of the HCl is
----
-C
-(a) 20 mL
-(b) 25 mL
-(c) 50 mL
-(d) 100 mL
-null
-What volume of 0.20 M H2SO4 is required to neutralize 100 mL of 0.20 M NaOH?
----
-B
-(a) 50.0 ml
-(b) 100 ml
-(c) 150 ml
-(d) 300 ml
-null
-What volume of 0.0400 mol/L H2SO4  solution is required to completely neutralize 200 ml of 0.0200 mol/L Ba(OH)2  solution?
----
-B
-(a) 5
-(b) 25
+(a) 23
+(b) 36
 (c) 45
-(d) 65
-(e) 85
-An artificial lemon drink powder containing citric acid was titrated with 0.45 mol/L NaOH solution using phenolphthalein indicator.  Citric acid is a triprotic acid with a molar mass of 192 g.  2.0 g of the powder required 15.7 ml of the base solution to neutralize it. Which of the following is closest to the percentage of citric acid in the powder?
----
-A
-(a) 0.0900 mol/L
-(b) 0.174 mol/L
-(c) 0.00225 mol/L
-(d) 90 mol/L
-(e) 3.125 mol/L
-If 18.0 ml of 0.125 mol/L hydrochloric acid neutralizes 25.0 ml of sodium hydroxide solution, what is the concentration of the base?
----
-E
-(a) The weak acid is more dilute.
-(b) The weak acid does not turn litmus red.
-(c) The weak acid does not conduct electricity.
-(d) The strong acid is a better oxidizing agent.
-(e) The strong acid has more hydronium ions per liter.
-What is the essential difference between a 1.0 M solution of a weak acid and a 1.0 M solution of a strong acid?
----
-D
-(a) The burette was not rinsed with NaOH solution
-(b) The student misread a 5 for a 6 on the burette when the first sample was titrated.
-(c) A different amount of water was added to the first sample.
-(d) The pipette was not rinsed with the HCI solution.
-(e) The student added too little indicator to the first sample.
-A student pipetted five 25.00-milliliter samples of hydrochloric acid and transferred each sample to an Erlenmeyer flask, diluted it with distilled water, and added a few drops of phenolphthalein to each. Each sample was then titrated with a sodium hydroxide solution to the appearance of the first permanent faint pink color. The following results were obtained.
-Volumes of NaOH Solution
-First Sample		35.22 ml
-Second Sample		36.14 ml
-Third Sample		36.13 ml
-Fourth Sample		36.15 ml
-Fifth Sample		36.12 ml
-Which of the following is the most probable explanation for the variation in the studentFs 
-results?
----
-D
-(a) The acid had the same concentration as the base.
-(b) The base was twice as concentrated as the acid.
-(c) The acid was twice as concentrated as the base.
-(d) The acid was four times as concentrated as the base.
-(e) The base was four times as concentrated as the acid.
-It was found that when a solution of calcium hydroxide, Ca(OH)2, was added to 25 mL of a solution of nitric acid, HNO3, neutralization occurred when 50 mL of the base had been added. Which of the following can be concluded?
----
-B
-(a) The end point of a titration is when the solution becomes neutral.
-(b) The equivalence point of titration is when a stoichiometric amount of the titrant has been added.
-(c) The equivalence point is when the indicator changes colour.
-(d) The end point is always the same as the equivalence point.
-(e) The pH changes very slowly at the equivalence point.
-Which statement is true concerning acid-base titrations.
----
-D
-(a) 0.30 mol/L
-(b) 0.61 mol/L
-(c) 1.1 mol/L
-(d) 2.2 mol/L
-(e) 0.95 mol/L
-If 25.0 mL of an ammonia solution requires 47.5 mL of 0.58 mol/L sulfuric acid solution to neutralize it, what is the concentration of the base?
----
-A
-(a) 5.0 mL
-(b) 10 mL
-(c) 20 mL
-(d) 50 mL
+(d) 64
 null
-What volume of 4.00 x 10^-2 M HCl is needed to completely react with 2.00 x 10^-2 L of 1.00 x 10^-2 M LiOH?
+The density of a gas at STP is 2.0 g/L. The relative molecular mass of this gas is most clearly
 ---
-B
-(a) 6.25 mL
-(b) 12.5 mL
-(c) 25.0 mL
-(d) 50.0 mL
+D
+(a) 11.2 g
+(b) 22.4 g
+(c) 3.00 g
+(d) 67.2 g
 null
-What volume of 0.200 M Ca(OH)2  is required to neutralize 25.0 mL of 0.100 M HCl?
+The density of a gas at STP is 3.0 g/L. The molar mass of this same gas is
 ---
 C
-(a) 30 mL
-(b) 40 mL
-(c) 50 mL
-(d) 60 mL
+(a) CH
+(b) 2CH
+(c) C2H2
+(d) CH14
 null
-What volume of 0.16 M HCl is required to completely neutralize 40 mL of 0.20 M NaOH?
----
-B
-(a) 50.0 ml
-(b) 100 ml
-(c) 150 ml
-(d) 300 ml
-null
-What volume of 0.0400 mol/L H2SO4, solution is required to completely neutralize 200 ml of 0.0200 mol/L Ba(OH)2, solution?
----
-B
-(a) strongly basic
-(b) slightly basic
-(c) slightly acidic
-(d) strongly acidic
-(e) neutral
-A solution has a pH of 8. How is this solution best described?
----
-A
-(a) strongly acidic
-(b) slightly basic
-(c) slightly acidic
-(d) strongly basic
-(e) neutral
-A solution with a pH of 2 is said to be:
----
-E
-(a) strongly acidic
-(b) slightly basic
-(c) slightly acidic
-(d) strongly basic
-(e) neutral
-A solution with a pH of 7 is said to be:
+The simplest formula of a gas is CH. At STP, 11.2 L of this gas masses 13 g. The molecular formula of
+he gas is
 ---
 C
-(a) 3
-(b) 4
-(c) 5
-(d) 7
-(e) 9
-A solution has a pH of 4. If enough water was added to 1.0 L of this solution to bring the total solution volume up to 10 L, the solution would have a pH of about:
----
-D
-(a) 7
-(b) 10
-(c) 11
-(d) 12
-(e) 14
-A solution has a pH of 13. If enough water was added to 1.0 L of this solution to bring the total solution volume up to 10 L, the solution would have a pH of about:
----
-D
-(a) does not change color when the pH of the test solution goes from 4 to 9;
-(b) is always red in acid and green in base;
-(c)  is rare and can only be obtained as a specialized chemical;
-(d) turns different colors in acids and bases;
-(e) does none of these.
-An acid-base indicator is a substance that:
----
-B
-(a) turns litmus blue and red cabbage indicator yellow;
-(b) tastes sour;
-(c) feels slippery;
-(d) could have a pH of 12;
-(e) would not react with baking soda.
-An acid would have which of the following properties?  An acid solution:
----
-A
-(a) 1 and 3 only
-(b) 1, 2, 3, 4, and 5
-(c) 1, 4, and 5 only
-(d) 2 and 5 only
-(e) 3 and 4 only
-The following list contains properties of common acids and bases in water. Which of these properties describe a base?
-1. turns litmus blue;
-2. turns red cabbage indicator red;
-3. feels slippery;
-4. tastes sour;
-5. reacts with chalk (calcium carbonate).
+(a) is the same as at standard conditions
+(b) is less than at standard conditions
+(c) is greater than at standard conditions
+(d) is about 20 times less than at standard conditions
+null
+At 101 kPa pressure and at a temperature of 253 K, the density of a gas
 ---
 C
-(a) 1 and 5 only
-(b) 1, 3, and 4 only
-(c) 2, 4, and 5 only
-(d) 1, 2, and 4 only
-(e) 2, 3, 4, and 5
-The following list contains properties of common acids and bases in water. Which of these properties describe an acid?
-1. turns litmus blue;
-2. turns red cabbage indicator red;
-3. feels slippery;
-4. tastes sour
-5. reacts with chalk (calcium carbonate).
+(a) increases when the volume increases, at constant temperature
+(b) decreases when the absolute temperature decreases at constant pressure
+(c) does not change at any temperature and pressure
+(d) decreases as the density increases
+null
+The mass of a fixed quantity of gas
 ---
-D
-(a) does not dissolve magnesium;
-(b) a slippery feeling;
-(c) a bitter taste;
-(d) a low pH;
-(e) turns red cabbage indicator yellow.
-Which of the following is characteristic of an acid solution?
+C
+(a) varies inversely with pressure at constant temperature
+(b) varies directly with the absolute temperature at constant pressure
+(c) varies inversely with the absolute temperature at constant pressure
+(d) decreases as the mass of the gas increases
+null
+The density of a gas
+---
+B
+(a) density of the gas increases
+(b) density of the gas decreases
+(c) average molecular velocity increases
+(d) average molecular velocity decreases
+null
+If the temperature of a sealed glass container of O2 is increased, the
+---
+C
+(a) the volume of a given mass of gas (at constant pressure) varies inversely as its absolute temperature
+(b) when a gas is cooled, its molecules move faster
+(c) at constant volume, an increase in pressure may be due to an increase in the number of molecules
+(d) the pressure exerted by a gas at constant volume is independent of its temperature
+null
+Which one of the following statements is CORRECT?
+---
+B
+(a) 0.224 L
+(b) 0.448 L
+(c) 0.896 L
+(d) 1.10 L
+null
+An evacuated glass flask is found to have a mass of 110.02 g. When filled with oxygen at STP, the flask is found to have a mass of 110.66 g. The volume of the flask is
+---
+C
+(a) 25 / 273 g
+(b) (25 x 273) / 546
+(c) 25 g
+(d) (25 x 546) / 273
+null
+If 25 g of hydrogen gas in a closed container is heated from 0 C to 273 C, the mass of the gas at 73 C will be
+---
+A
+(a) 1.02 g/L
+(b) 1.46 g/L
+(c) 1.89 g/L
+(d) 2.02 g/L
+null
+The density of O2 at STP is 1.43 g/L. What would its density be at 373 K and 98.1 kPa?
+---
+C
+(a) 335C
+(b) 0.0028C
+(c) 88C
+(d) 1344C
+null
+A 5.00 L balloon contains 0.200 mol of air at 120 kPa pressure. What is the temperature of the air in the balloon?
 ---
