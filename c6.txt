@@ -1,0 +1,232 @@
+C
+(a)  2 mol methanol / 3 mol oxygen
+(b)  3 mol oxygen / 2 mol carbon dioxide
+(c)  6 mol oxygen / 2 mol carbon dioxide
+(d)  2 mol carbon dioxide / 4 mol water
+null
+Which of the following is an incorrect equation factor for the following reaction. 2 CH3OH (l) + 3 O2(g) -> 2 CO2(g) + 4 H2O (g)
+---
+B
+(a) 2 mol butane / 13 mol oxygen
+(b)  13 mol oxygen / 13 mol carbon dioxide
+(c)  13 mol oxygen / 8 mol carbon dioxide
+(d)  2 mol carbon dioxide / 2.5 mol water
+null
+Which of the following is an incorrect equation factor for the following reaction. 2 C4H10(g) + 13 O2(g) -> 8 CO2(g) + 10 H2O(g)
+---
+B
+(a) 31
+(b) 32
+(c) 62
+(d) 63
+(e) 64
+Consider the equation, Na2O + SO2 -> Na2SO3, when 31 g of Na2O reacts with SO2 to produce 63 g of Na2SO3, how much SO2 will be needed, in g?
+---
+B
+(a) 8
+(b) 12
+(c) 16
+(d) 24
+null
+How many moles of carbon dioxide can be produced from the burning of 3 moles of butane, C4H10(g)? 2 C4H10(g) + 13 O2(g) -> 8 CO2(g) + 10 H2O(g)
+---
+A
+(a) 0.50 mol
+(b) 1.0 mol
+(c) 2.0 mol
+(d) 4.0 mol
+null
+How many moles of CO2 are produced from the burning of 16 g of CH3OH, according to the equation: 2 CH3OH(l) + 3 O2(g) -> 2 CO2(g) + 4 H2O(g)
+---
+C
+(a) 1.0
+(b) 2.0
+(c) 5.0
+null
+null
+Consider the equation for the electrolysis of water: 2 H2O (l) -> 2 H2(g) + O2(g), the number of moles of O2 produced by the electrolysis of 5 moles of water is
+---
+B
+(a) 3.20
+(b) 1.60
+(c) 0.050
+(d) 0.100
+null
+How many moles of CO2 are produced by burning 0.400 mol of C4H10 in excess O2? 2 C4H10(g) + 13 O2(g) -> 8 CO2(g) + 10 H2O(g)
+---
+D
+(a) 4.00
+(b) 8.33
+(c) 4.15
+(d) 16.6
+null
+If 8.3 mol of C2H2 are completely burned in excess O2, 2 C2H2(g) + O2(g) -> 4 CO2(g) + 2 H2O (g), the number of moles of CO2 produced is 2 C2H2(g) + O2(g) -> 4 CO2(g) + 2 H2O (g)
+---
+C
+(a) 22 g
+(b) 32 g
+(c) 44 g
+(d) 88 g
+null
+If 1.00 mol of CH3OH is burned according to the equation: 2 CH3OH (l) + 3 O2(g) -> 2 CO2(g) + 4 H2O (l), the mass of CO2 produced is
+---
+D
+(a) 1
+(b) 1/8
+(c) 1/4
+(d) 1/2
+null
+If 8.0 g of methanol is burned according to the equation: 2 CH3OH + 3 O2 -> 2 CO2 + 4 H2O + heat, the number of moles of water produced is
+---
+D
+(a) 8.0 g
+(b) 2.0 g
+(c) 16 g
+(d) 32 g
+null
+The mass of O2 required to completely convert 4.0 g of H2 to water is 2 H2(g) + O2(g) -> 2 H2O(l)
+---
+B
+(a) 67.2 g
+(b) 80.0 g
+(c) 134.4 g
+(d) 160 g
+null
+The total mass of the products formed when 1 mol of methanol is burned according to the following equation is 2 CH3OH(l) + 3 O2(g) -> 2 CO2(g) + 4 H2O(l) + heat
+---
+B
+(a) 63.5 x 1 g
+(b) 63.5 x 10 g
+(c) 63.5 x 22.4 g
+(d) 63.5 x 18 g
+null
+The maximum yield of copper obtained from the reduction of 795 g of CuO by the following reaction is CuO(s) + H2(g) -> Cu(s) + H2O(l)
+---
+D
+(a) 66.6 g
+(b) 84.0 g
+(c) 100 g
+(d) 150 g
+null
+What mass of CaCO3 is required to produce 84 g of CaO, CaCO3(s) -> CaO(s) + CO2(g)
+---
+B
+(a) 6.75
+(b) 13.5
+(c) 54.0
+(d) 217
+null
+How many grams of Al are needed to react completely with 40.0 g of iron (III) oxide? 2 Al(s) + Fe2O3(s) -> Al2O3(s) + 2 Fe(s)
+---
+D
+(a) 32
+(b) 48
+(c) 64
+(d) 96
+(e) 128
+Carbon burns according to the balanced equation, C + O2 -> CO2, the mass of oxygen required to convert 36 g of carbon into carbon dioxide is
+---
+C
+(a) 1
+(b) 5
+(c) 10
+(d) 15
+(e) 20
+Zinc reacts with hot sulphuric acid according to the reaction, Zn + H2SO4 -> ZnSO4 + SO2 + 2 H2O, how many moles of SO2 are produced by the complete reaction of 980 g of H2SO4?
+---
+D
+(a) 12.5
+(b) 16
+(c) 20
+(d) 25
+(e) 100
+Consider the balanced equation, 2 C2H2 + 5 O2 -> 4 CO2  + 2 H2O, how many moles of oxygen are required to produce 20 moles of carbon dioxide?
+---
+D
+(a) 0.5
+(b) 1.0
+(c) 1.5
+(d) 2.0
+(e) 3.0
+Consider the balanced equation, 2 HgO -> 2 Hg + O2, if 433.2 g of mercuric oxide are decomposed, how many moles of mercury will be produced?
+---
+E
+(a) 1
+(b) 2
+(c) 4
+(d) 6.02 x 10^23
+(e) 12.04 x 10^23
+Consider the balanced equation, 2 H2O -> 2 H2 + O2, if four moles of hydrogen are produced, how many oxygen molecules were produced as well?
+---
+A
+(a) 0.5
+(b) 1.0
+(c) 1.5
+(d) 2
+(e) 3
+How many moles of iron(III) oxide are required to produce one mole of iron, according to the equation Fe2O3 + 3 CO -> 3 CO2 + 2 Fe
+---
+A
+(a) 160
+(b) 80
+(c) 40
+(d) 142
+(e) None of the above
+In the neutralization of sodium hydroxide with sulphuric acid, 2 NaOH + H2SO4 -> Na2SO4 + 2 H2O, how many grams of sodium hydroxide are needed to produce 284 g of sodium sulphate?
+---
+A
+(a) 2.5
+(b) 5.0
+(c) 7.5
+(d) 10
+null
+Consider the equation, 2 C2H2 + 5 O2 -> 4 CO2 + 2 H2O, determine the number of moles of oxygen which react with C2H2 to produce 88.0 g of CO2.
+---
+C
+(a) 2.0
+(b) 4.0
+(c) 6.0
+(d) 9.0
+null
+Consider the balanced equation, 3 FeO + 2 Al -> 3 Fe + Al2O3, how many moles of Fe are produced if the reaction involves 4 moles of Al?
+---
+C
+(a) Lower than if the reactant were pure
+(b) Unaffected by the purity of the material
+(c) Higher than if the reactant were pure
+(d) Determined by the percentage yield of the reaction.
+null
+When an impure reactant is used in a chemical reaction, the amount of that material needed to produce a desired amount of product will be
+---
+C
+(a) 28 g
+(b) 34 g
+(c) 17 g
+(d) 25 g
+null
+Given 28 g of N2(g) and 3.0 g of H2(g) how much NH3(g) will be produced? N2(g) + 3 H2(g) -> 2 NH3(g)
+---
+E
+(a) 144 g
+(b) 288 g
+(c) 255 g
+(d) 366 g
+(e) 216 g
+Given 111 g of calcium chloride in solution and 255 g of silver nitrate in solution how much silver chloride can be produced? CaCl2(aq) + 2 AgNO3(aq) -> 2 AgCl(s) + Ca(NO3)2(aq)
+---
+D
+(a) 10.0 moles of products will be produced
+(b) 30.0 moles of products will be produced
+(c)  calcium chloride is the limiting reagent
+(d)  silver nitrate is the limiting reagent
+null
+Given 5.00 moles each of calcium chloride and silver nitrate, which of the following statements is TRUE about the following reaction, CaCl2(aq) + 2 AgNO3(aq) -> 2 AgCl(s) + Ca(NO3)2(aq):
+---
+D
+(a) 20.0 moles of products will be produced
+(b) 50.0 moles of products will be produced
+(c) N2 is the limiting reagent
+(d) H2 is the limiting reagent
+null
+Given 10.0 moles each of N2 and H2, which of the following statements is TRUE for the following reaction, 3 H2(g) + 2 N2(g) -> 2 NH3(g):
+---

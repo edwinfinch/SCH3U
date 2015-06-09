@@ -1,0 +1,491 @@
+D
+(a) MgCl2(aq) + 2 NaF(aq) ->2 NaCl(aq) + MgF2(aq)
+(b) Mg^+2(aq) + 2 Cl^-1 + 2 Na^+1(aq) + 2 F^-1(aq) -> 2Na^+1(aq) + 2 Cl^-1(aq) + MgF(s)
+(c) 2 Na^+1(aq) + 2 Cl^-1(aq) -> 2 NaCl(aq)
+(d) Mg^+2(aq) + 2 F^-1(aq) -> MgF2(s)
+null
+A precipitate forms when aqueous solutions of magnesium chloride and sodium fluoride are mixed. The net ionic equation is
+---
+C
+(a) Carbonate ion
+(b) Aluminum ion
+(c) Bromide ion
+(d) Acetate ion
+(e) Hydroxide ion
+A solution contains Fe^+2 and Ag^+1. Which of the following will precipitate one of Fe^+2 and Ag^+1 and leave the other ion in solution?
+---
+D
+(a) Cobalt nitrate and aluminum nitrate
+(b) Barium nitrate and potassium chlorate
+(c) Magnesium nitrate and nickel nitrate
+(d) Potassium nitrate and iron (II) nitrate
+null
+For which of the following, can the metal ions be separated from one another by adding a solution of sodium hydroxide?
+---
+C
+(a) Sodium nitrate and mercury (I) nitrate
+(b) Calcium nitrate and strontium nitrate
+(c) Silver nitrate and mercury (I) nitrate
+(d) Iron (II) nitrate and aluminum nitrate
+null
+For which of the following can the metal ions be separated by adding a solution of hydrochloric acid
+HCl(aq))?
+---
+B
+(a) Pressure is increased.
+(b) Pressure is reduced.
+(c) Temperature is increased.
+(d) Temperature is reduced.
+(e) Liquid carbon dioxide evaporates.
+Bubbles rise in a newly opened bottle of a carbonated beverage. This action is explained by the fact that carbon dioxide is less soluble in water when
+---
+E
+(a) Decrease as pressure increases.
+(b) Are not affected by pressure change.
+(c) Are constant for all types of gases.
+(d) Are not affected by temperature changes.
+(e) Decrease as temperature increases.
+In general, the solubility of gases in water
+---
+A
+(a) 1C
+(b) 4C
+(c) 20C
+(d) 32C
+(e) 100C
+At which temperature will water, in an open vessel, dissolve the greatest quantity of oxygen?
+---
+C
+(a) Addition of a common ion enables more salt to dissolve.
+(b) The rate of dissolving exceeds that of crystallization.
+(c) The rate of dissolving equals the rate of crystallization of the salt.
+(d) The mass of salt in solution equals the mass of undissolved salt.
+(e) All of the salt is found in the undissolved salt at the bottom of the container.
+At a constant temperature in a saturated aqueous salt solution in contact with undissolved salt
+---
+E
+(a) Burning of hydrogen.
+(b) Hydrogenation of cottonseed oil.
+(c) Neutralization of NaOH with HCl.
+(d) Replacement of hydrogen from acids.
+(e) Reaction of water with sodium carbonate.
+The process of hydrolysis is best illustrated by the
+---
+B
+(a) Sodium sulfate, Na2SO4
+(b) Radium sulfate, RaSO4
+(c) Magnesium sulfate, MgSO4
+(d) Potassium sulfate, K2SO4
+null
+Given these solubilities in water,
+Compound					Solubility
+CaSO4 (calcium sulfate)		2. g/L^F1
+SrSO4 (strontium sulfate)	0.1 g/L^F1
+BaSO4 (barium sulfate)		0.002 g/L^F1
+Predict the sulfate likely to be less soluble than BaSO4.
+---
+B
+(a) Dilute and supersaturated.
+(b) Dilute and saturated.
+(c) Dilute and unsaturated.
+(d) Concentrated and unsaturated.
+(e) Concentrated and saturated.
+A small amount of solid calcium hydroxide is shaken vigorously in a test tube almost full of water until no further change occurs, and most of the solid settles out. The resulting solution is
+---
+E
+(a) Dissolve in the solution.
+(b) Form a supersaturated solution.
+(c) React with the water in the solution.
+(d) Cause additional sodium chloride crystals to separate from the solution.
+(e) Cause no visible change in the solution.
+A crystal of sodium chloride, when added to a solution of sodium chloride that is in equilibrium with excess solid sodium chloride, will
+---
+E
+(a) Measure the volume.
+(b) Evaporate he solution.
+(c) Cool the solution slowly.
+(d) Warm the solution slowly.
+(e) Add a crystal of the solute.
+Which procedure is used to determine when a solution is saturated?
+---
+B
+(a) Unsaturated
+(b) Saturated
+(c) Supersaturated
+null
+null
+A solution of sugar whose concentration is 500 g/100 g of water at 100C is
+---
+B
+(a) 30C
+(b) 50C
+(c) 80C
+(d) Not possible
+null
+The temperature required to just barely dissolve 355 g of ammonium nitrate in 100 g of water is closest to
+---
+C
+(a) 	Saturated			Supersaturated		Unsaturated
+(b)		Unsaturated			Supersaturated		Saturated
+(c)		Unsaturated			Supersaturated		Supersaturated
+(d)		Supersaturated		Saturated			Unsaturated
+null
+Individual solutions of ammonium nitrate, sugar and ammonium chloride are made by completely dissolving 300 g of the solute in 100 g of water at 60C.The degree of saturation for each solution is best described as
+		Ammonium nitrate	Sugar				Ammonium chloride
+---
+D
+(a) 100 g
+(b) 370 g
+(c) 470 g
+(d) Unknown
+null
+If 100 g of water is saturated with sugar at 80C, the total mass of the solution will be closest to
+---
+C
+(a) None
+(b) 190 g
+(c) 95 g
+(d) 305 g
+null
+If a solution containing 200 g of sugar dissolved in 50 g of water is cooled while stirring to 20C, the amount of precipitate formed will be closest to
+---
+B
+(a) 39.3 g
+(b) 50.7 g
+(c) 68.0 g
+(d) 103 g
+null
+At 293 K the solubility of KCl is 34.0 g per 100g of water. What mass of KCl must be dissolved in water to form 200g of saturated KCl?
+---
+D
+(a) 3.6 g
+(b) 3 600 g
+(c) 900 g
+(d) 225 g
+null
+The solubility of sodium nitrate at 25C is 90 g/100g of water. How much sodium nitrate will dissolve in 
+250 mL of water at 25C?
+---
+B
+(a) Sodium chloride
+(b) Silver chloride
+(c) Sodium hydroxide
+(d) Ammonium nitrate
+null
+Which of the following is the least soluble in water at 25C?
+---
+C
+(a) 17.5 g
+(b) 50 g
+(c) 67.5 g
+(d) 100 g
+null
+A mixture of 50 g of water and 50 g of common salt (solubility, 35 g/100g of water) is well shaken. When stirring produces no more changes, the total mass of the liquid phase in the container is
+---
+E
+(a) 1, 4
+(b) 1, 4
+(c) 2, 4
+(d) 2, 5
+(e) 3, 5
+The solubility in mol/L of different solids is affected by the
+1 - Color of the solvent
+2 - Temperature of the solute
+3 - Molar mass of the solute
+4 - Molar volume of the solute
+5 - Nature of the solute
+---
+D
+(a) 1, 3
+(b) 1, 4
+(c) 2, 3
+(d) 2, 4
+null
+In general as the temperature goes down, the solubility
+1 - Of a solid in a liquid increases
+2 - Of a solid in a liquid decreases
+3 - Of a gas in a liquid decreases
+4 - Of a gas in a liquid increases
+---
+B
+(a) 1, 3
+(b) 3, 4
+(c) 1, 2
+(d) 2, 3
+(e) 1, 4
+Select the correct statements concerning the effect of an increase in temperature on the solubility of substances in water. The effect of an increase in temperature is to
+1 - Decrease the solubility of a liquid in water
+2 - Increase the solubility of a gas in water
+3 - Increase the solubility of a solid in water
+4 - Decrease the solubility of a gas in water
+---
+C
+(a) 1, 2
+(b) 1, 3
+(c) 2, 4
+(d) 2, 5
+(e) 1, 5
+A solid substance is dissolved in a liquid. Select those factors which affect the solubility.
+1 - Mass of solvent
+2 - Nature of solvent
+3 - Mass of solute
+4 - Nature of solute
+5 - Color of solute
+---
+C
+(a) Low pressure and low temperature
+(b) High pressure and high temperature
+(c) High pressure and low temperature
+(d) Low pressure and high temperature
+null
+A gas is most soluble in water at
+---
+B
+(a) A small decrease in temperature
+(b) Continuous evaporation of a substantial amount of the solvent
+(c) An increase in pressure
+(d) Filtration
+null
+The concentration of an unsaturated solution of a solid in a liquid may be markedly increased by
+---
+D
+(a) Low temperature and low pressure
+(b) High temperature and low pressure
+(c) High temperature and low pressure
+(d) Low temperature and high pressure
+null
+The solubility of a gas in a liquid will be highest at
+---
+C
+(a) Subdivision, cooling and agitation
+(b) Subdivision, warming and no agitation
+(c) Subdivision, heating and agitation
+(d) No subdivision, warming and agitation
+null
+Which of the following combinations will most likely increase the rate of dissolving of a solid in a liquid?
+---
+C
+(a) Minimum amount that can be dissolved in any volume of water
+(b) Maximum amount that can be dissolved in any volume of water
+(c) Maximum amount that can be dissolved in a definite volume of water
+(d) Minimum amount that can be dissolved in a definite volume of water
+(e) None of the above
+The solubility of a substance in water at a given temperature is defined as the
+---
+A
+(a) The maximum number of grams of solute that can be dissolved in 100 g of solvent at a specified temperature
+(b) The minimum number of grams that can dissolve in 100 g of solvent to produce an unsaturated solution
+(c) The maximum number of grams that can dissolve in 100 g of solute at a specific temperature
+(d) The ability of a solute to dissolve in various solvents at a specified temperature
+null
+Solubility is defined as
+---
+B
+(a) O2
+(b) CO2
+(c) CO
+(d) H2
+null
+The "carbonation" in soft drinks is due to dissolved
+---
+A
+(a) Dilute
+(b) An electrolyte
+(c) Supersaturated
+(d) Concentrated
+null
+If a relatively small amount of solute is dissolved in a relatively large amount of solvent, the solution is said to be
+---
+D
+(a) Dilute
+(b) Concentrated
+(c) Unsaturated
+(d) Saturated
+null
+When a small crystal is dropped into a supersaturated solution, crystals form in the solution. The resulting solution (after removal of the crystals) is
+---
+B
+(a) Saturated
+(b) Supersaturated
+(c) Concentrated
+(d) Unsaturated
+null
+At 20C, 7.0 g of potassium chlorate will dissolve in 100 g of water. A solution was found to contain 10g of potassium chlorate in 100 g of water at 20C. This solution was
+---
+A
+(a) Saturated
+(b) Supersaturated
+(c) Unsaturated
+(d) Concentrated
+(e) The given information is insufficient
+A small sodium chloride crystal is added to a solution of the same salt and stirred rapidly. If no change is observed in the crystal it is probable that the solution was
+---
+A
+(a) Saturated
+(b) Concentrated
+(c) Unsaturated
+(d) Dilute
+(e) None of the above
+Which term best applies to a solution in which no more solute can be dissolved without changing the temperature?
+---
+B
+(a) Saturated and concentrated
+(b) Unsaturated and dilute
+(c) Unsaturated and concentrated
+(d) Saturated and dilute
+null
+The solubility of sodium chloride is about 35 g per 100 mL of water. If 1.0 g of sodium chloride is added to 1.0 L of water the resulting solution is
+---
+D
+(a) Strong
+(b) Supersaturated
+(c) Immiscible
+(d) Saturated
+null
+A solution which contains all the solute it can normally dissolve at a given temperature is
+---
+A
+(a) A saturated solution
+(b) A strong solution
+(c) An unsaturated solution
+(d) A supersaturated solution
+null
+A solution in which the dissolved solute and the undissolved solute are in equilibrium is
+---
+C
+(a) The undissolved excess will dissolve
+(b) The added crystal will grow
+(c) No observable change will occur
+(d) The added crystal will dissolve
+null
+A crystal of sodium chloride is dropped into a beaker containing a saturated solution of sodium chloride and some undissolved sodium chloride on the bottom of the beaker. What will be observed?
+---
+A
+(a) Raising the temperature
+(b) Raising the pressure
+(c) Adding a crystal of potassium nitrate
+(d) Evaporating some of the water
+null
+A saturated solution of KNO3 may be made unsaturated by
+---
+C
+(a) The solute is insoluble in water
+(b) The solute is slightly soluble in water
+(c) The original solution was saturated
+(d) The original solution was supersaturated
+null
+A crystal is added to an aqueous solution of the same solute. After some time if is noted that the crystal has not changed in mass. Which statement is true?
+---
+D
+(a) The solute is insoluble in water
+(b) The solute is slightly soluble in water
+(c) The original solution was saturated
+(d) The original solution was supersaturated
+null
+A crystal is added to an aqueous solution of the same solute. After some time if is noted that the crystal has increased in mass. Which statement is true?
+---
+B
+(a) 1 phase
+(b) 2 phases
+(c) 3 phases
+(d) 4 phases
+null
+A reaction vessel which holds a saturated solution of common salt in water plus excess salt, contains
+---
+C
+(a) A solution phase only
+(b) Water and salt phases
+(c) Solution and a salt phase
+(d) A salt phase only
+null
+A mixture of 50 g of water and 50 g of common salt (solubility, 35 g/100g of water) is well shaken. When stirring produces no more changes the reaction vessel will contain
+---
+C
+(a) Unsaturated
+(b) Saturated
+(c) Supersaturated
+(d) Polyunsaturated
+null
+A solution that contains more solute than can normally be dissolved in the solvent at a particular temperature is called
+---
+A
+(a) It is a saturated solution
+(b) The rate of dissolving is greater than the rate of crystallization
+(c) The rate of dissolving is less than the rate of crystallization
+(d) If more sugar is added, it will dissolve
+null
+Which of the following is true for an aqueous solution of sugar at equilibrium?
+---
+D
+(a) The solution is saturated
+(b) The solution is unsaturated
+(c) The solution is supersaturated
+(d) There is not enough information to establish the level of saturation
+null
+You are given a solution in which no solid is visible. Which of the following statements is true?
+---
+A
+(a)  Fe^+3(aq) + 3 OH^-1(aq) -> Fe(OH)3(s)
+(b)  Fe^+3(aq) + 3 Cl^-1(aq) + 3 Na^+1(aq) + 3 OH^-1(aq) -> Fe(OH)3(aq)  + 3 NaCl(s)
+(c)  Fe^+3(aq) + 3 Cl^-1(aq) + 3 Na^+1(aq) + 3 OH^-1(aq) ->  Fe(OH)3(s)  + 3 NaCl(aq)
+(d)  Fe^+3(aq) + 3 Cl^-1(aq) + 3 NaOH(aq)  ->Fe(OH)3(s)   + 3 NaCl(aq)
+null
+Which of the following best represents the net ionic equation for the reaction between FeCl3 and NaOH?
+---
+C
+(a) Cu(NO3)2 (aq)  +  2 KOH(aq) -> Cu(OH)2 (s)  + 2 K NO3 (aq)
+(b) Cu^+2(aq) + 2 NO3^-1(aq) + 2 K^+1(aq) + 2 OH^-1(aq) -> Cu^+2(aq) + 2 OH^-1(aq) +2 K^+1(aq) +2 NO3^-1(aq)
+(c) Cu^+2(aq) + 2 NO3^-1(aq) + 2 K^+1(aq) + 2 OH^-1(aq) -> Cu(OH)2 (s) + 2 K^+1(aq) +2 NO3^-1(aq)
+(d) Cu^+2(aq) + 2 OH^-1(aq) -> Cu(OH)2(s)
+(e) 2 K^+1(aq) + 2 OH^-1(aq) -> 2 KNO3(aq)
+Which of the following represents the total ionic equation for the reaction between Cu(NO3)2 (aq) and KOH(aq)?
+---
+D
+(a) H^+1(aq) + Cl^-1(aq) + Na^+1(aq) + OH^-1(aq) -> H^+1(aq) + OH^-1(aq) + Na^+1(aq) + Cl^-1(aq)
+(b) H^+1(aq) + Cl^-1(aq) + Na^+1(aq) + OH^-1(aq) -> H^+1(aq) + OH^-1(aq) + NaCl(s)
+(c) H^+1(aq) + Cl^-1(aq) + Na^+1(aq) + OH^-1(aq) -> H2O + Na^+1(aq) + Cl^-1(aq)
+(d) H^+1(aq) + OH^-1(aq) -> H2O(l) 	
+(e) Na^+1(aq) + Cl^-1(aq) -> NaCl(s)
+Select the equation which best represents the net ionic equation for the neutralization of hydrochloric acid by sodium hydroxide.
+---
+C
+(a) A fat or oil
+(b) Fatty acid
+(c) Sodium salt of fatty acid
+(d) A mixture of glycerin and fat
+null
+Chemically, soap is a
+---
+D
+(a) Magnesium chloride
+(b) Calcium carbonate
+(c) Calcium sulphate
+(d) Calcium bicarbonate
+(e) Sodium carbonate
+"Temporarily" hard water may contain
+---
+A
+(a) 1, 2, 3 and 5
+(b) 3 and 5
+(c) 1, 3 and 5
+(d) 2, 4 and 5
+(e) All
+Which statements concerning water softening by ion exchange are true?
+1 - The resin is a network polymer
+2 - The resin has ionic groups attached to the network
+3 - Calcium and magnesium ions from the hard water adhere to the resin
+4 - Recharging the resin involves mixing it with washing soda solution
+5 - During recharging the calcium and magnesium ions are exchanged for sodium ions
+---
+C
+(a) i and ii
+(b) i and iii
+(c) i and iv
+(d) ii and iii
+(e) ii and iv
+Which of the following are affected by the use of hard water?
+(i) Cleaning action of soaps
+(ii) Cleaning action of detergents
+(iii) Lathering of detergents
+(iv) Lathering of soaps
+---
