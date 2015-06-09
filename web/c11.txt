@@ -1,0 +1,561 @@
+B
+(a) molecular mass
+(b) volume
+(c) mass
+(d) densities
+null
+If  two containers of different ideal gases at the same temperature and pressure have the same number of molecules, the gases must have the same
+---
+D
+(a) (1.6 / 23.55) x 16
+(b) (3.55 / 1.6) x 16
+(c) (1.6 x 16) / 3
+(d) (3.55 / 1.6) x 32
+null
+Equal volumes of two different gases, A and B, are at the same temperature and pressure. The sample of gas A has a mass of 1.60 g and the sample of gas B has a mass of 3.55 g. Gas A is 02, therefore the relative molecular mass of gas B is
+---
+A
+(a) O2
+(b) He
+(c) F2
+(d) H2O
+null
+An empty flask, ie. an evacuated one, is found to have a mass of 110.02 g. When filled with H2 it has a mass of 110.06 g. When filled with an unknown gas, it has a mass of 110.66 g. Which one of the following formulae could be that of the unknown gas?
+---
+B
+(a) C2H2
+(b) C2H6
+(c) C3H9
+(d) C4H12
+null
+A 1.00 L sample of a gas, measured at STP, with simplest formula CH3 is found to have a mass of 1.34 g. The molecular formula for the gas is
+---
+B
+(a) all molecules in the gaseous state are the same temperature
+(b) the volumes occupied by the same number of molecules are the same
+(c) volumes occupied by equal numbers of molecules are proportional to their masses
+(d) equal masses of all gases contain the same number of molecules
+null
+Avogadro's Principle states that at the same temperature and pressure
+---
+D
+(a) volume
+(b) number of atoms
+(c) density
+(d) number of molecules
+(e) pressure
+One mole each of carbon monoxide and carbon dioxide always have the same
+---
+B
+(a) 2 g
+(b) 4 g
+(c) 8 g
+(d) 128 g
+(e) 256 d
+A liter of gas "X" has only 1/8 the mass of a liter of oxygen at the same conditions. The molar mass of FX" is therefore
+---
+C
+(a) 4.0
+(b) 20
+(c) 40
+(d) 80
+(e) 200
+A certain volume of an unknown gas is collected and its mass is determined to be 0.40 g. The same volume of nitrogen under the same conditions has a mass of 0.28 g. Determine the molar mass of the unknown gas.
+---
+A
+(a) the same number of molecules as 1 L of hydrogen
+(b) 1/16 the number of hydrogen molecules
+(c) the same number of molecules as 16 L of hydrogen
+(d) 16 times as many molecules as 1 L of hydrogen
+null
+When 1 L of hydrogen and 1 L of oxygen are measured at STP, 1 L of oxygen contains
+---
+D
+(a) be of the same substance
+(b) have the same number of atoms
+(c) have the same mass
+(d) have the same volume
+null
+If two containers of ideal gases under the same conditions of temperature and pressure have the same number of molecules, the gas samples must also
+---
+E
+(a) equal numbers of atoms
+(b) 6.02 x 1023   molecules
+(c) equal masses of the gas
+(d) one mole of the gas
+(e) equal numbers of molecules
+Avagadro's Principle states that equal volumes of gases at the same temperature and pressure contain
+---
+C
+(a) the compound of "X" and "Y" would be XY2
+(b) a mole of "X" contains more molecules than a mole of "Y"
+(c) a mole of "X" is heavier than a mole of "Y"
+(d) a mole of "X" occupies a greater volume than a mole of "Y"
+(e) a mole of "X" contains more atoms than a mole of "Y"
+If gaseous element "X" has a molar mass of 102 while gaseous element "Y" has a molar mass of 51, which conclusion is necessarily valid?
+---
+D
+(a) always occupies 1.0 L
+(b) always occupies 22.4 L
+(c) can occupy any volume at STP
+(d) always occupies 22.4 L at STP
+null
+One mole of any gas
+---
+D
+(a) 11.2 L
+(b) 22.4 L
+(c) 44.8 L
+(d) 67.2 L
+null
+Three moles of H2, measured at STP, occupy
+---
+D
+(a) 8.00
+(b) 16.0
+(c) 6.02 x 1020
+(d) 6.02 x 1023
+null
+The number of molecules of O2 found in 22.4 L of oxygen gas at STP, is
+---
+E
+(a) 22. 4 L of carbon
+(b) 6 g of carbon
+(c) one atom of carbon
+(d) 6.02 x 10^23 molecules of carbon
+(e) 6.02 x 10^23 atoms of carbon
+One mole of carbon atoms is the amount of carbon contained in
+---
+A
+(a) volume occupied by 6.02 x 10^23 gas molecules
+(b) volume occupied by the same mass of all gases
+(c) volume occupied by one molar mass of gas
+(d) same for all gases
+(e) volume of 22.4 L of any gas
+Select the FALSE statement concerning the molar volume of a gas at a temperature of 273 K and at 100 kPa pressure. It is the
+---
+E
+(a) 22.4 L of iron
+(b) 1 atom of iron
+(c) 55.8 g of iron
+(d) 1 molecule of iron
+(e) 6.02 x 10^23 atoms of iron
+A mole of iron is
+---
+B
+(a) 14
+(b) 28
+(c) 48
+(d) 56
+null
+In an experiment, plastic bags of equal volume were filled with gases and massed. After correction for buoyancy, one bagful of oxygen gas was found to have a mass of 0.96 g. One bagful of gas "X" was found to have a mass of 0.84 g. What is the relative molecular mass of gas "X"?
+---
+B
+(a) water
+(b) neon
+(c) potassium
+(d) sulphur
+null
+Which of the following has the largest molar volume at 25C and 100 kPa?
+---
+B
+(a) 0.50
+(b) 8.50
+(c) 17.0
+(d) 22.4
+null
+The mass in grams of 11.2 L of gaseous NH3 at 101 kPa and 0.00C is
+---
+A
+(a) an Avagadro number of molecules 
+(b) one molecule
+(c) an Avagadro number of atoms
+(d) one atom
+(e) 22.4 L of the substance
+The molar mass of molecules of a chemically pure substance always refers to the mass of
+---
+B
+(a) 3.5
+(b) 78.4
+(c) 22.4
+(d) 13.0
+(e) 21.1
+What is the mass in grams of one mole of gas if the density of the gas at STP is 3.5 g/L
+---
+D
+(a) F2
+(b) Cl2
+(c) CH4
+(d) CH2O
+null
+The density of Gas "X" is 1.34 g/L at STP. The gas could be
+---
+D
+(a) 0.559 g/L
+(b) 0.986 g/L
+(c) 1.79 g/L
+(d) 1.96 g/L
+null
+The density of CO2, with a relative molecular mass of 44.0 u,  at STP is
+---
+B
+(a) 2.24 L
+(b) 11.2 L
+(c) 22.4 L
+(d) 44.8 L
+null
+What is the volume of 16 g of O2 gas at STP?
+---
+C
+(a) 4.0
+(b) 20
+(c) 40
+(d) 80
+null
+Samples of two gases are studied. Equal volumes at the same temperature and pressure are massed. The first has a mass of 1.6 g while the second has a mass of 2.0 g. If the molecular mass of the first gas is 32 u, than the molecular mass of the second gas in u must be
+---
+D
+(a) is less than the number of molecules of gas A
+(b) is double the number of molecules of gas C
+(c) is half the number of molecules of gas B
+(d) is half the number of molecules of Gas C
+null
+Four gases are mixed together in the same container. Their partial pressures are
+gas A - 65 kPa
+gas B - 40 kPa
+gas C - 160 kPa
+gas D - 80 kPa
+Select the correct completion. The number of molecules of gas D
+---
+B
+(a) a different number of molecules is contained in each container
+(b) the average kinetic energy of the molecules is the same in both containers
+(c) the average velocity of the molecules is the same in both containers
+(d) the flask filled with SO2 will have the same mass as the flask filled with O2
+null
+Consider two identical flasks, both at 25C and 101 kPa pressure. One contains SO2 gas and the other contains O2 gas. Which of the following statements is correct?
+---
+C
+(a) is less
+(b) is greater
+(c) is the same
+(d) varies depending on the amount of gases
+null
+At the same temperature the average kinetic energy of oxygen molecules relative to the average kinetic energy of hydrogen molecules
+---
+A
+(a) there are more hydrogen molecules than oxygen molecules
+(b) all of the molecules have the same velocity
+(c) both gases exert the same pressure on the walls of the container
+(d) all of the molecules strike the walls with the same force
+null
+Equal masses of hydrogen and oxygen are placed in a container and the container is tightly stoppered. which of the following statements is true about the system?
+---
+E
+(a) there are more moles of oxygen than of hydrogen
+(b) the mass of oxygen equals the mass of hydrogen
+(c) the hydrogen pressure exceeds the oxygen pressure
+(d) the average speed of the gas molecules is the same for both gases
+(e) the average kinetic energy of the gas molecules is the same for both gases
+Consider equal volumes of hydrogen gas and oxygen gas under the same conditions of temperature and pressure. Select the correct statement.
+---
+B
+(a) 101 kPa
+(b) 608 kPa
+(c) 1.22 x 10^3  kPa
+(d) 8.47 x 10^3  kPa
+null
+What is the total pressure in the system if the following are added to the same 22.4 L container at 273 L?
+1.00 mol of H2  
+1.00 mol of N2
+1.00 mol of O2
+3.00 mol of CO2
+---
+D
+(a) 101 kPa
+(b) 202 kPa
+(c) 303 kPa
+(d) 404 kPa
+null
+There are 12.04 x 10^23   molecules of H2 in a container having a capacity of 11.2 L. The pressure in the container at 273 K is
+---
+C
+(a) 500.0 molecules
+(b) 1 000 molecules
+(c) 2 000 molecules
+(d) 6.025 x 10^23 molecules
+null
+Suppose a certain volume of H2 contains 2 000 molecules. The same volume of O2 at the same temperature and pressure would contain
+---
+B
+(a) 15
+(b) 30
+(c) 45
+(d) 60
+(e) 75
+Two moles of O2 and four moles of CO2  are placed in a steel tank where they exert a total pressure of 90 kPa. What is the partial pressure of the oxygen gas in kPa?
+---
+B
+(a) vapor pressure equals zero
+(b) vapor pressure equals atmospheric pressure
+(c) vapor pressure exceeds the atmospheric pressure
+(d) vapor pressure is less than atmospheric pressure
+(e) vapor pressure is large enough for evaporation to star
+Select the correct definition for the boiling point of a liquid. This is the temperature at which
+---
+B
+(a) there is a gradual reduction in the number of gas molecules
+(b) the number of molecules leaving the liquid phase is equal to the number of molecules condensing
+(c) there is a gradual reduction in the number of gas molecules
+(d) more molecules leave the liquid than condense from the gas
+null
+A sealed container is partially filled with a liquid in equilibrium with its vapor. Select the correct statement at constant temperature.
+---
+C
+(a) 20 kPa
+(b) 70 kPa
+(c) 12 kPa
+(d) 55 kPa
+(e) 84 kPa
+Listed below are the vapor pressures of different liquids at 300 K. Which liquid would have the highest boiling point?
+---
+C
+(a) vapor pressure increases with temperature because the boiling point is higher
+(b) ether can be considered a non-volatile liquid
+(c) gases exert pressure due to molecular collisions with the walls of the container
+(d) molecules of different mass have different average kinetic energies at the same temperature
+null
+Which one of the following is CORRECT?
+---
+D
+(a) vapor pressure has been increased
+(b) vapor pressure has been decreased
+(c) concentration of vapor molecules has increased
+(d) number of vapor molecules has increased
+null
+A liquid/vapor system is at equilibrium. The volume of the vapor is increased by increasing the size of the closed container. When equilibrium is once again achieved at the same temperature, the
+---
+B
+(a) air pressure
+(b) vapor pressure
+(c) oxygen pressure
+(d) saturated pressure
+null
+The pressure due to the molecules of a substance in the saturated vapor above the corresponding liquid is called the
+---
+B
+(a) chemical composition of the liquid
+(b) atmospheric pressure
+(c) temperature
+(d) purity of the liquid
+null
+The vapor pressure of a liquid is independent of the
+---
+A
+(a) temperature of the liquid
+(b) area of the exposed surface of the liquid
+(c) atmospheric pressure
+(d) volume of the container above the liquid
+null
+The vapor pressure of a liquid depends upon the
+---
+C
+(a) when a liquid evaporates, it cools because the molecules with higher speeds are more likely to escape from the container
+(b) as temperature increases, the equilibrium vapor pressure of a liquid increases
+(c) when equilibrium vapor pressure becomes equal to atmospheric pressure, additional heating will result in boiling
+(d) the normal boiling point is the temperature at which the equilibrium vapor pressure equals 101.3 kPa
+(e) increasing the atmospheric pressure causes the boiling point to increase
+Which statement concerning vaporization of a liquid is FALSE?
+---
+A
+(a) 98.9 kPa
+(b) 99.9 kPa
+(c) 101.1 kPa
+(d) 103.3 kPa
+null
+The vapor pressure of water at 292 K is 2.200 kPa. Some oxygen is collected over water at 292 K and the total pressure of the gas collected is 101.1 kPa. The pressure due to the oxygen is
+---
+A
+(a) 125 kPa
+(b) 150 kPa
+(c) 320 kPa
+(d) 500 kPa
+null
+A vessel contains 2.50 mol of O2, 0.50 mol of N2 and 1.00 mol of CO2. The total pressure is 200 kPa. The partial pressure exerted by the O2 in the mixture is
+---
+A
+(a) 55 kPa
+(b) 110 kPa
+(c) 37 kPa
+(d) dependant upon container size
+null
+If 2.0 mol of O2, 3.5 mol of N2 and 1.5 mol of He are added to a  container and exert a total pressure of 110 kPa, the partial pressure of the nitrogen is
+---
+D
+(a) 2.00 L
+(b) 11.2 L
+(c) 22.4 L
+(d) 44.8 L
+null
+According to the following equation the volume of O2, at STP needed to completely burn 22.4 L of CH4 , at STP, is
+CH4(g) + 2 O2(g) -> CO2(g) + 2 H2O(g)
+---
+C
+(a) 36.0 g
+(b) 45.0 g
+(c) 90.0 g
+(d) 112 g
+null
+What mass of water would be needed to produce 112 L of H2 , at STP according to the following equation?
+2 H2O(l) -> 2 H2(g) + O2(g)
+---
+D
+(a) (2 x 65) / 30 L
+(b) (2 x 30) / 65 L
+(c) (22.4 x 65) / 30 L
+(d) (22.4 x 30) / 65 L
+null
+Zinc reacts with hydrochloric acid as shown in the following equation:
+Zn(s) + 2 HCl(aq) -> ZnCl2(aq) +  H2(g)
+The volume of H2 produced at STP, by the reaction of 30 g of Zn with excess HCl is
+---
+B
+(a) 14.6 L
+(b) 21.9 L
+(c) 22.4 L
+(d) 51.5 L
+null
+What volume of dry O2 at STP is produced by heating 80.0 g of KClO3?
+2 KClO3(s) -> 2 KCl(s) + 3 O2(g)
+---
+A
+(a) 0.373 L
+(b) 1.12 L
+(c) 3.36 L
+(d) 22.4 L
+null
+What volume of N2 reacts with 1.12 L of H2 to form  ammonia at STP?
+N2(g) + 3 H2(g) -> 2 NH3(g)
+---
+C
+(a) 22.4 L
+(b) 32.0 L
+(c) 35.6 L
+(d) 69.6 L
+null
+What volume of CO2 at STP will be required to produce 159 g of CaCO3 as follows:
+CaCl2(aq) + CO2(g) + H2O(l) -> CaCO3(aq) + 2HCl(aq)
+---
+A
+(a) 6.11 L
+(b) 22.4 L
+(c) 44.8 L
+(d) 48.9
+null
+If 0.250 mol of methanol is burned according to the equation: 2 CH3OH + 3 O2 -> 2 CO2 + 4 H2O + heat, what volume of CO2  measured at 298 K and 101 kPa is produced?
+---
+B
+(a) 22.4 L
+(b) 67.2 L
+(c) 245 L
+(d) 490 L
+null
+What volume of dry oxygen, at STP, can be obtained by heating 245 g of KClO3? 2 KClO3(g) -> 2 KCl(s) + 3 O2(g)
+---
+B
+(a) 1.0 x 22.4 L
+(b) 1.5 x 22.4 L
+(c) 2.0 x 22.4 L
+(d) 3.0 x 22.4 L
+null
+What volume of hydrogen at STP, is produced by the reaction of 1.0 mol of Al in the following reaction? 2 Al + 6 HCl -> AlCl3  + 3 H2
+---
+C
+(a) 5.6 l
+(b) 11.2 L
+(c) 16.8 L
+(d) 29.9 L
+null
+What will be the total volume of products formed, if measured at STP, when 19 g of CS2  are burned? CS2(l) + 3 O2(g) -> CO2(g) + 2 SO2(g)
+---
+A
+(a) 0.75 x 22.4 L
+(b) 1.5 x 22.4 L
+(c) 3 x 22.4 L
+(d) 6 x 22.4 L
+null
+What volume of O2 at STP is needed to burn 16 g of CH3OH? 2 CH3OH(l) + 3 O2(g) -> 2 CO2(g) + 4 H2O(l)
+---
+C
+(a) 5.0 L
+(b) 8.0 L
+(c) 10 L
+(d) 20 L
+null
+What volume of ammonia, NH3 can be produced from 5.0 L of N2 at any constant temperature and pressure? N2(g) + 3 H2(g) -> 2 NH3(g)
+---
+C
+(a) 16.8
+(b) 22.4
+(c) 33.6
+(d) 67.2
+null
+How many liters of H2 at 100 kPa and 273 K are required to react with 11.2 L of N2  at the same temperature and pressure? N2(g) + 3 H2(g) -> 2 NH3(g)
+---
+A
+(a) 5.6 mL
+(b) 11.2 mL
+(c) 22.4 mL
+(d) 44.8 mL
+null
+What volume of oxygen will combine with 11.2 mL of hydrogen to form water if both gases are measured at the same temperature and pressure? 2 H2(g) + O2(g) -> 2 H2O(l)
+---
+B
+(a) 60
+(b) 40
+(c) 30
+(d) 20
+(e) 10
+Carbon monoxide combines with oxygen according to the reaction, 2 CO + O2 -> 2 CO2, what volume in liters of carbon dioxide will be produced by the complete reaction of 40 L of carbon monoxide with 20 L of oxygen?
+---
+D
+(a) 2
+(b) 3
+(c) 6
+(d) 8
+(e) 12
+How many liters of SO2 are produced if 12 L of oxygen react completely with ZnS? 2 ZnS + 3 O2 -> 2 ZnO + 2 SO2
+---
+C
+(a) 11.2
+(b) 22.4
+(c) 33.6
+(d) 44.8
+(e) 67.2
+Consider the equation, N2 + 3 H2 -> 2 NH3, how many liters of hydrogen are required to produce 22.4 L of ammonia?
+---
+C
+(a) 20 L
+(b) 30 L
+(c) 40 L
+(d) 60 L
+(e) 44.8 L
+Consider the equation, N2 + 3 H2 -> 2 NH3, what volume of ammonia will be produced by the complete reaction of 60 L of hydrogen with nitrogen?
+---
+B
+(a) 10
+(b) 5
+(c) 20
+(d) 2.5
+(e) 40
+What volume of oxygen is required to convert 10 L of carbon monoxide to carbon dioixde?
+2 CO + O2 -> 2 CO2
+---
+D
+(a) 11.2
+(b) 22.4
+(c) 44.8
+(d) 89.6
+null
+Consider the equation, 2 CO + O2 -> 2 CO2, if 64.0 g of oxygen combine with the CO, then what volume of carbon dioxide is produced at 101 kPa and 0C?
+---

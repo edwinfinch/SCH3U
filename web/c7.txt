@@ -1,0 +1,568 @@
+D
+(a) 1
+(b) 5
+(c) 25
+(d) > 25
+null
+How many different sugar - water mixtures can be made such that each has a mass of 5 g?
+---
+A
+(a) A solution
+(b) A pure substance
+(c) An element
+(d) A compound
+null
+A homogeneous material, which is a mixture, is classified as
+---
+D
+(a) Settling on standing	
+(b) Murkiness
+(c) Tyndall Effect
+(d) Clarity
+(e) None of the above
+Solutions exhibit
+---
+C
+(a) They are both homogeneous
+(b) They are both heterogeneous
+(c) They contain identical particles
+(d) They can be broken down into simpler substances
+null
+Two samples of the same pure substance always behave the same because
+---
+D
+(a) It is heterogeneous
+(b) It is homogeneous
+(c) It can be separated
+(d) The amount of solute can differ
+null
+A solution has variable composition because
+---
+A
+(a) Homogeneous mixture
+(b) Homogeneous pure substance
+(c) Heterogeneous mixture
+(d) Heterogeneous pure substance
+null
+Sugar dissolved in water is a
+---
+B
+(a) Heterogeneous
+(b) Homogeneous
+(c) Colored
+(d) Clear
+null
+A true solution is always
+---
+B
+(a) Solvent and solution
+(b) Solute and solvent
+(c) Solution and solute
+(d) Solute and solution
+null
+Sugar is dissolved in water. The sugar and water are respectively the
+---
+C
+(a) Heterogeneous
+(b) Cloudy
+(c) Single phased
+(d) Colorless
+null
+All solutions are
+---
+B
+(a) Suspension
+(b) Solution
+(c) Emulsion
+(d) Colloidal dispersion
+null
+When alcohol and water are mixed a clear mixture results; the resulting mixture is a(n)
+---
+C
+(a) A pure substance
+(b) An element
+(c) A solution
+(d) A compound
+null
+A homogeneous mixture of variable composition is
+---
+D
+(a) A compound
+(b) A suspension
+(c) A dispersion
+(d) A solution
+(e) An element
+Two molten metals are mixed and allowed to solidify. After solidification, the metal is cut in half. The sample appears to be homogenous throughout. This sample is most probably an example of
+---
+A
+(a) 0.30
+(b) 0.40
+(c) 0.70
+(d) 0.90
+null
+The final concentration when 100 mL of 0.50 M NaOH is added to 200 mL of 0.20 M NaOH is.
+---
+D
+(a) 0.50
+(b) 1.0
+(c) 2.0
+(d) 5.0
+null
+Determine the molar concentration when 11.7 g of NaCl are dissolved in water to make 40 mL of solution.
+---
+B
+(a) 1.0
+(b) 2.0
+(c) 3.0
+(d) 4.0
+null
+Determine the final concentration when 100 mL of 6.0 M HCl is prepared and added to 200 mL of water.
+---
+A
+(a) 1 liter of solution
+(b) 1 liter of solute
+(c) 1 liter of solvent
+(d) 0.5 L of an acid
+null
+A solution of HCl has a concentration of 0.5 M. This means that there are 0.5 moles of HCl in
+---
+A
+(a) 0.4 M
+(b) 0.8 M
+(c) 1.2 M
+(d) 2.4 M
+null
+If 4.0 L of 0.3 M NaCl are mixed with 2.0 L of 0.6 M NaCl, the final solution will be
+---
+A
+(a) 1. 2 g
+(b) 2.0 g
+(c) 2.4 g
+(d) 4.8 g
+null
+How much LiOH is needed to prepare 200 mL of 0.25 M LiOH?
+---
+C
+(a) 1.5
+(b) 3.0
+(c) 6.0
+(d) 9.0
+null
+What is the concentration of the nitrate ion in a 3.0 M Ca(NO3)2  solution?
+---
+C
+(a) 10 mL
+(b) 50 mL
+(c) 100 mL
+(d) 500 mL
+null
+A 5.0 M solution of H2SO4 is prepared. What volume of solution would contain 49 g of solute?
+---
+D
+(a) 20
+(b) 60
+(c) 8
+(d) 24
+(e) 3
+How many grams of HF are required to prepare 400 mL of a 3.0 M solution?
+---
+D
+(a) 1
+(b) 2
+(c) 4
+(d) 8
+(e) 16
+If the molar concentration of Ca(OH)2 is 4 mol/L, the  concentration of the OH-1  is
+---
+D
+(a) 0.1
+(b) 0.02
+(c) 0.05
+(d) 0.5
+(e) 0.2
+The molar concentration of the solution made by dissolving 5.8 g of NaCl in 2.0 L of water is
+---
+C
+(a) 4.0
+(b) 2.0
+(c) 1.0
+(d) 0.10
+null
+The final concentration of the solution made by diluting 300 mL of 2.0 M NaOH with 300 mL of water is
+---
+C
+(a) 0.50 g
+(b) 10 g
+(c) 20 g
+(d) 40 g
+(e) 80 g
+How much sodium hydroxide, NaOH, should be dissolved in 1.0 L of water if the concentration of the resulting solution is to be 0.50 mol/L?
+---
+E
+(a) 1
+(b) 3
+(c) 4.5
+(d) 6
+(e) 9
+The molar concentration of Al(OH)3  is 3 mol/L. What is the molar concentration of the OH-1  ion?
+---
+B
+(a) 0.25
+(b) 0.50
+(c) 1.0
+(d) 2.0
+(e) 4.0
+If 16 g of SO2 are dissolved in 500 mL of water, the concentration in mol/L is
+---
+C
+(a) 1
+(b) 1.3
+(c) 2.0
+(d) 2.5
+(e) 1.5
+One liter of solution prepared from one mole of Na2SO4  in  water contains how many moles of aqueous sodium ion?
+---
+B
+(a) 0.10
+(b) 0.50
+(c) 1.0
+(d) 1.5
+(e) 2.0
+What is the molarity of a solution if 13 g of LiF are dissolved to make 1.0 L of solution?
+---
+C
+(a) 4.12 x 10^-5 M
+(b) 7.09 x 10^-3 M
+(c) 4.12 x 10^-2 M
+(d) 2.41 M
+null
+One gram of NaCl is dissolved in enough water to make 415 mL of solution. The concentration of NaCl in the solution is
+---
+A
+(a) 0.0500
+(b) 1.10
+(c) 3.20
+(d) 12.5
+null
+The number of moles of copper ion present in 200 mL of a 0.250 M solution of CuSO4 is
+---
+A
+(a) 0.1 L
+(b) 0.2 L
+(c) 1 L
+(d) 2 L
+null
+How much 6 M HCl will be needed to make 2 L of 0.3 M HCl?
+---
+A
+(a) 5.00 x 10^-2 L
+(b) 5.00 x 10^-1 L
+(c) 5.00 L
+(d) 20.0 L
+null
+What volume of 2.00 M CH3COOH solution can be made from 6.00 g of pure acetic acid?
+---
+A
+(a) 0.00625 M
+(b) 0.0125 M
+(c) 0.125 M
+(d) 0.250 M
+null
+If 50.0 mL of 0.125 M H2SO4 is diluted with water to 1.00  L, the concentration of the H+ (aq) will be
+---
+B
+(a) 1.00
+(b) 0.200
+(c) 0.125
+(d) 8.00
+null
+If 8.0 g of sodium hydroxide is dissolved in sufficient water to make 1.00 L of solution, what is the concentration of the solution expressed as molarity?
+---
+C
+(a) 0.50 g
+(b) 10 g
+(c) 20 g
+(d) 80 g
+null
+The mass of sodium hydroxide that is present in 250 mL of a solution containing 2.0 mol of NaOH per liter of solution is
+---
+D
+(a) 0.525L
+(b) 1.74 L
+(c) 2.90 L
+(d) 5.80 L
+null
+The volume of 0.300 M CH3COOH solution that can be prepared from 100 mL of glacial acetic acid (C = 17.4 M) is
+---
+D
+(a) 1.0 M
+(b) 2.0 M
+(c) 0.4 M
+(d) 4.0 M
+null
+If 196 g of pure H2SO4 is dissolved in enough water to make 500 mL of solution, the concentration of the resulting solution will be
+---
+A
+(a) 1.00 M
+(b) 10.0 M
+(c) 14.9 M
+(d) 74.6 M
+null
+The concentration of KCl in a solution is 7.46 g per 100 g of solution. The concentration may also be expressed as
+---
+D
+(a) 7.00 mL
+(b) 8.40 mL
+(c) 17.1 mL
+(d) 58.3 mL
+null
+What volume of 12.0 M HCl is required to make 3.50 L of 0.200 M HCl?
+---
+A
+(a) 1.0
+(b) 2.0
+(c) 0.063
+(d) 4.0
+null
+The number of moles of solute in 250 mL of a 4.0 M solution is
+---
+A
+(a) 1.00 M
+(b) 0.200 M
+(c) 0.250 M
+(d) 0.500 M
+null
+If 8.00 g of NaOH are dissolved in sufficient water to make 200 mL of solution. The concentration of the solution is
+---
+C
+(a) 0.05 M
+(b) 0.25 M
+(c) 0.50 M
+(d) 1.0 M
+null
+The concentration of an H2SO4 solution that is prepared  by dissolving 4.9 g of pure H2SO4  in sufficient water to  make 100 mL of solution is
+---
+D
+(a) 0.00650 M
+(b) 0.150 M
+(c) 0.790 M
+(d) 6.50 M
+null
+The concentration of a solution that contains 2.275 mol of solute in a volume of 350 mL of solution is
+---
+C
+(a) 0.0500 M
+(b) 2.00 M
+(c) 0.125 M
+(d) 0.250 M
+null
+The concentration of NaOH in a solution containing 1.00 g of NaOH in 200 mL of solution is
+---
+A
+(a) 20 mL
+(b) 2.0 mL
+(c) 40 mL
+(d) 4.0 mL
+null
+What volume of 5.0 M HCl is needed to prepare 400 mL of 0.25 M HCl?
+---
+B
+(a) 0.13 M
+(b) 2.0 M
+(c) 0.50 M
+(d) 4.0 M
+null
+If 49 g of H2SO4 is dissolved in sufficient water to make 250 mL of solution, the concentration of the resulting solution is
+---
+A
+(a) 0.060 M
+(b) 0.12 M
+(c) 0.60 M
+(d) 3.0 M
+null
+If 20 mL of 9.0 M sulphuric acid is diluted to a total volume of 3.0 L, the final concentration will be
+---
+A
+(a) 1 M
+(b) 2 M
+(c) 3 M
+(d) 4 M
+null
+The concentration of a solution containing 4 g of NaOH in 100 mL of water is
+---
+D
+(a) 0.37 M
+(b) 0.45 M
+(c) 0.57 M
+(d) 0.60 M
+null
+A clear solution is made from 1.5 L of 0.40 M MgCl2 and 0.50 L of water. The resultant concentration of chloride ion is
+---
+A
+(a) [Na^+1] = 2 x 10^-3
+(b) [Sr^+2] = 4 x 10^-3
+(c) [Na^+1] = 1 x 10^-3
+(d) [Sr^+2] = 2 x 10^-3
+null
+Equal volumes of 2 x 10^-3 mol/L solutions of strontium nitrate (Sr(NO3)2) and sodium sulphate (Na2SO4)  are mixed. Which of the following statements concerning the mixture are true?
+---
+D
+(a) 0.0500
+(b) 0.250
+(c) 0.800
+(d) 1.25
+null
+What is the concentration in mol/L of a sodium hydroxide solution containing 10.0 g of NaOH dissolved in 200 mL of water?
+---
+E
+(a) 0.06
+(b) 0.2
+(c) 0.4
+(d) 0.8
+(e) 1.0
+A 0.2 M solution of HCl is prepared. The volume of a 300 mL sample is reduced to 60 mL through evaporation. The final concentration is
+---
+A
+(a) 0.20
+(b) 0.30
+(c) 0.60
+(d) 2.0
+null
+The concentration of the OH^-1 in 200 mL of 0.10 M Ca(OH)2  is
+---
+C
+(a) 0.82 M
+(b) 6.8 M
+(c) 9.9 M
+(d) 12.5 M
+null
+What is the concentration of an HCl solution, 30 % HCl by mass and specific gravity (density) 1.2?
+---
+D
+(a) Moles of solute per liter of solution
+(b) Moles of solute per kg of solution
+(c) Moles of solute per mole of solution
+(d) Moles of solute per liter of solution
+null
+The molar concentration is the number of
+---
+B
+(a) 1.33 x 10^-4
+(b) 3.00 x 10^-2
+(c) 3.00
+(d) 0.130
+null
+The number of moles of NaCl present in 150 mL of 0.200 M NaCl is
+---
+B
+(a) 7.15
+(b) 5.05
+(c) 3.70
+(d) 84.0
+(e) 1.19
+The concentration of acetic acid, CH3COOH , in a sample of vinegar is determined to be 0.878 mol/L. If the density of the vinegar is 1.045 g/mL, calculate the volume percent of acetic acid in the vinegar sample.
+---
+C
+(a) 4.43
+(b) 44.3
+(c) 30.1
+(d) 0.335
+(e) 3.32
+The concentration of hydrochloric acid, HCl, in a sample is determined to be 9.47 mol/L. If the density of the solution is 1.15 g/mL, calculate the volume percent of hydrochloric acid in the sample.
+---
+A
+(a) 68.8
+(b) 5.77
+(c) 57.7
+(d) 13.7
+(e) 1.45
+The concentration of nitric acid, HCl , in a sample is determined to be 15.4 mol/L. If the density of the solution is 1.41 g/mL, calculate the volume percent of nitric acid in the sample.
+---
+C
+(a) 14 mL
+(b) 350 mL
+(c) 3.5 x 10^2 mL
+(d) 7.14 mL
+(e) 7.1 mL
+Rubbing alcohol is commonly used as an antiseptic for small cuts. It is sold as a 70% (v/v) solution of isopropyl alcohol in water. What volume of isopropyl alcohol is used to make 500 mL of rubbing alcohol?
+---
+D
+(a) 50 mL
+(b) 50.0 mL
+(c) 12.5 mL
+(d) 13 mL
+(e) 1.25 mL
+Whole milk usually contains 5.0% milk fat by volume. If you drink a 250 mL glass of whole milk, how much milk fat have you consumed?
+---
+E
+(a) 3.5 L
+(b) 0.35 L
+(c) 0.035 L
+(d) 0.18 L
+(e) 1.8 L
+Human blood is 72% by volume, white blood cells. What volume of pure white blood cells would be found in a child whose total blood volume was 2.5 L?
+---
+E
+(a) 300 mL
+(b) 315 mL
+(c) 285 mL
+(d) 0.30 L
+(e) 0.29 L
+Vinegar is sold as a 5.0% (v/v) solution of acetic acid in water. Assuming that liquid volumes are additive, what volume of water must be added to 15 mL of acetic acid to produce synthetic vinegar?
+---
+D
+(a) 1.17 Sn : 1 Pb
+(b) 1.17 Pb : 1 Sn
+(c) 2.6 Pb : 1 Sn
+(d) 2.6 Sn : 1 Pb
+null
+ElectricianFs solder is 60% tin and 40% lead by mass. What is the mole ratio of the two elements?
+---
+B
+(a) 2.1%
+(b) 2.0%
+(c) 48%
+(d) 49%
+null
+A solution contains 5.3 g of potassium chloride in 255.5 g of water. Calculate the mass percent of solute in this solution.
+---
+D
+(a) 5.12%
+(b) 51.2%
+(c) 0.195%
+(d) 19.5%
+(e) 24.2
+Evaporation of a 23.47 g sample of slush yields 4.58 g of CaCl2 salt residue.  Calculate the mass/mass percentage of calcium chloride in the slush.
+---
+A
+(a) 34 g
+(b) 0.034 g
+(c) 1.7 g
+(d) 1.2 g
+(e) 118 g
+The recommended m/v percentage for a TSP solution used to clean walls before wallpapering is 1.7%. What mass of TSP is needed to make 2.0 L of this solution?
+---
+B
+(a) 0.01 g	
+(b) 0.10 mg
+(c) 6.3 x 10^-9 mg
+(d) 6.3 x 10^-6 mg
+null
+What mass of DDT would be present in a 4.0 kg seabird containing a concentration of 25 ppb of DDT?
+---
+B
+(a) 0.04 mg
+(b) 40 mg
+(c) 2.5 mg
+(d) 0.40 mg
+null
+Ammonium nitrate, which is a major ingredient in fertilizers releases nitrate ion into the water. The World Health Organization has set an upper limit of 10 ppm for infants. If an infant has a mass of 4.0 kg, what is the maximum allowable mass of nitrate ions that would be permitted in the infantFs body tissues?
+---
+A
+(a) 3.0 ppm
+(b) 3.0 ppb
+(c) 0.003 ppm
+(d) 0.003 ppb
+null
+The water in a swimming pool is found to have a concentration of 3.0 mg/L of chlorine. This is the equivalent of
+---
